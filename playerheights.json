@@ -1,0 +1,732 @@
+{
+    "a": [
+        {
+            "name": "Alaa Abdelnaby",
+            "height": "208"
+        },
+        {
+            "name": "Zaid Abdul-Aziz",
+            "height": "206"
+        },
+        {
+            "name": "Kareem Abdul-Jabbar",
+            "height": "218"
+        },
+        {
+            "name": "Mahmoud Abdul-Rauf",
+            "height": "185"
+        },
+        {
+            "name": "Tariq Abdul-Wahad",
+            "height": "198"
+        },
+        {
+            "name": "Shareef Abdur-Rahim",
+            "height": "206"
+        },
+        {
+            "name": "Tom Abernethy",
+            "height": "201"
+        },
+        {
+            "name": "Forest Able",
+            "height": "191"
+        },
+        {
+            "name": "John Abramovic",
+            "height": "191"
+        },
+        {
+            "name": "Álex Abrines",
+            "height": "198"
+        },
+        {
+            "name": "Precious Achiuwa",
+            "height": "203"
+        },
+        {
+            "name": "Alex Acker",
+            "height": "196"
+        },
+        {
+            "name": "Don Ackerman",
+            "height": "183"
+        },
+        {
+            "name": "Mark Acres",
+            "height": "211"
+        },
+        {
+            "name": "Bud Acton",
+            "height": "198"
+        },
+        {
+            "name": "Quincy Acy",
+            "height": "201"
+        },
+        {
+            "name": "Alvan Adams",
+            "height": "206"
+        },
+        {
+            "name": "Don Adams",
+            "height": "198"
+        },
+        {
+            "name": "George Adams",
+            "height": "196"
+        },
+        {
+            "name": "Hassan Adams",
+            "height": "193"
+        },
+        {
+            "height": "NaN"
+        },
+        {
+            "name": "Jaylen Adams",
+            "height": "183"
+        },
+        {
+            "name": "Jordan Adams",
+            "height": "196"
+        },
+        {
+            "name": "Michael Adams",
+            "height": "178"
+        },
+        {
+            "name": "Steven Adams",
+            "height": "211"
+        },
+        {
+            "name": "Rafael Addison",
+            "height": "201"
+        },
+        {
+            "name": "Bam Adebayo",
+            "height": "206"
+        },
+        {
+            "name": "Deng Adel",
+            "height": "201"
+        },
+        {
+            "name": "Rick Adelman",
+            "height": "185"
+        },
+        {
+            "name": "Jeff Adrien",
+            "height": "201"
+        },
+        {
+            "name": "Arron Afflalo",
+            "height": "196"
+        },
+        {
+            "name": "Ochai Agbaji",
+            "height": "196"
+        },
+        {
+            "name": "Maurice Ager",
+            "height": "196"
+        },
+        {
+            "name": "Mark Aguirre",
+            "height": "198"
+        },
+        {
+            "name": "Blake Ahearn",
+            "height": "188"
+        },
+        {
+            "name": "Danny Ainge",
+            "height": "196"
+        },
+        {
+            "name": "Matt Aitch",
+            "height": "201"
+        },
+        {
+            "name": "Alexis Ajinça",
+            "height": "218"
+        },
+        {
+            "name": "Henry Akin",
+            "height": "208"
+        },
+        {
+            "name": "Josh Akognon",
+            "height": "180"
+        },
+        {
+            "name": "DeVaughn Akoon-Purcell",
+            "height": "198"
+        },
+        {
+            "height": "NaN"
+        },
+        {
+            "name": "Solomon Alabi",
+            "height": "216"
+        },
+        {
+            "name": "Mark Alarie",
+            "height": "203"
+        },
+        {
+            "name": "Gary Alcorn",
+            "height": "206"
+        },
+        {
+            "name": "Santi Aldama",
+            "height": "211"
+        },
+        {
+            "name": "Furkan Aldemir",
+            "height": "208"
+        },
+        {
+            "name": "Cole Aldrich",
+            "height": "211"
+        },
+        {
+            "name": "LaMarcus Aldridge",
+            "height": "211"
+        },
+        {
+            "name": "Chuck Aleksinas",
+            "height": "211"
+        },
+        {
+            "name": "Cliff Alexander",
+            "height": "203"
+        },
+        {
+            "name": "Cory Alexander",
+            "height": "185"
+        },
+        {
+            "name": "Courtney Alexander",
+            "height": "196"
+        },
+        {
+            "name": "Gary Alexander",
+            "height": "201"
+        },
+        {
+            "name": "Joe Alexander",
+            "height": "203"
+        },
+        {
+            "name": "Kyle Alexander",
+            "height": "211"
+        },
+        {
+            "name": "Ty-Shon Alexander",
+            "height": "191"
+        },
+        {
+            "name": "Victor Alexander",
+            "height": "206"
+        },
+        {
+            "name": "Nickeil Alexander-Walker",
+            "height": "196"
+        },
+        {
+            "name": "Steve Alford",
+            "height": "188"
+        },
+        {
+            "name": "Rawle Alkins",
+            "height": "196"
+        },
+        {
+            "name": "Bill Allen",
+            "height": "203"
+        },
+        {
+            "height": "NaN"
+        },
+        {
+            "name": "Bob Allen",
+            "height": "206"
+        },
+        {
+            "name": "Grayson Allen",
+            "height": "193"
+        },
+        {
+            "name": "Jarrett Allen",
+            "height": "211"
+        },
+        {
+            "name": "Jerome Allen",
+            "height": "193"
+        },
+        {
+            "name": "Kadeem Allen",
+            "height": "185"
+        },
+        {
+            "name": "Lavoy Allen",
+            "height": "206"
+        },
+        {
+            "name": "Lucius Allen",
+            "height": "188"
+        },
+        {
+            "name": "Malik Allen",
+            "height": "208"
+        },
+        {
+            "name": "Randy Allen",
+            "height": "203"
+        },
+        {
+            "name": "Ray Allen",
+            "height": "196"
+        },
+        {
+            "name": "Tony Allen",
+            "height": "193"
+        },
+        {
+            "name": "Willie Allen",
+            "height": "198"
+        },
+        {
+            "name": "Odis Allison",
+            "height": "198"
+        },
+        {
+            "name": "Lance Allred",
+            "height": "211"
+        },
+        {
+            "name": "Darrell Allums",
+            "height": "206"
+        },
+        {
+            "name": "Morris Almond",
+            "height": "198"
+        },
+        {
+            "name": "Derrick Alston",
+            "height": "211"
+        },
+        {
+            "name": "Rafer Alston",
+            "height": "188"
+        },
+        {
+            "name": "Peter Aluma",
+            "height": "208"
+        },
+        {
+            "name": "Jose Alvarado",
+            "height": "183"
+        },
+        {
+            "height": "NaN"
+        },
+        {
+            "name": "John Amaechi",
+            "height": "208"
+        },
+        {
+            "name": "Ashraf Amaya",
+            "height": "203"
+        },
+        {
+            "name": "Al-Farouq Aminu",
+            "height": "203"
+        },
+        {
+            "name": "Lou Amundson",
+            "height": "206"
+        },
+        {
+            "name": "Bob Anderegg",
+            "height": "191"
+        },
+        {
+            "name": "Chris Andersen",
+            "height": "208"
+        },
+        {
+            "name": "David Andersen",
+            "height": "211"
+        },
+        {
+            "name": "Alan Anderson",
+            "height": "198"
+        },
+        {
+            "name": "Andy Anderson",
+            "height": "188"
+        },
+        {
+            "name": "Antonio Anderson",
+            "height": "198"
+        },
+        {
+            "name": "Cliff Anderson",
+            "height": "188"
+        },
+        {
+            "name": "Dan Anderson",
+            "height": "208"
+        },
+        {
+            "name": "Dan Anderson",
+            "height": "188"
+        },
+        {
+            "name": "Derek Anderson",
+            "height": "196"
+        },
+        {
+            "name": "Dwight Anderson",
+            "height": "191"
+        },
+        {
+            "name": "Eric Anderson",
+            "height": "206"
+        },
+        {
+            "name": "Greg Anderson",
+            "height": "208"
+        },
+        {
+            "name": "J.J. Anderson",
+            "height": "203"
+        },
+        {
+            "name": "James Anderson",
+            "height": "198"
+        },
+        {
+            "name": "Jerome Anderson",
+            "height": "196"
+        },
+        {
+            "height": "NaN"
+        },
+        {
+            "name": "Justin Anderson",
+            "height": "198"
+        },
+        {
+            "name": "Kenny Anderson",
+            "height": "185"
+        },
+        {
+            "name": "Kim Anderson",
+            "height": "201"
+        },
+        {
+            "name": "Kyle Anderson",
+            "height": "206"
+        },
+        {
+            "name": "Michael Anderson",
+            "height": "180"
+        },
+        {
+            "name": "Nick Anderson",
+            "height": "198"
+        },
+        {
+            "name": "Richard Anderson",
+            "height": "208"
+        },
+        {
+            "name": "Ron Anderson",
+            "height": "201"
+        },
+        {
+            "name": "Ryan Anderson",
+            "height": "206"
+        },
+        {
+            "name": "Shandon Anderson",
+            "height": "198"
+        },
+        {
+            "name": "Willie Anderson",
+            "height": "201"
+        },
+        {
+            "name": "Wally Anderzunas",
+            "height": "201"
+        },
+        {
+            "name": "Martynas Andriuškevičius",
+            "height": "218"
+        },
+        {
+            "name": "Don Anielak",
+            "height": "201"
+        },
+        {
+            "name": "Ike Anigbogu",
+            "height": "208"
+        },
+        {
+            "name": "Michael Ansley",
+            "height": "201"
+        },
+        {
+            "name": "Chris Anstey",
+            "height": "213"
+        },
+        {
+            "name": "Giannis Antetokounmpo",
+            "height": "211"
+        },
+        {
+            "name": "Kostas Antetokounmpo",
+            "height": "208"
+        },
+        {
+            "name": "Thanasis Antetokounmpo",
+            "height": "201"
+        },
+        {
+            "height": "NaN"
+        },
+        {
+            "name": "Carmelo Anthony",
+            "height": "201"
+        },
+        {
+            "name": "Cole Anthony",
+            "height": "188"
+        },
+        {
+            "name": "Greg Anthony",
+            "height": "183"
+        },
+        {
+            "name": "Joel Anthony",
+            "height": "206"
+        },
+        {
+            "name": "Pero Antić",
+            "height": "211"
+        },
+        {
+            "name": "OG Anunoby",
+            "height": "201"
+        },
+        {
+            "name": "Keith Appling",
+            "height": "185"
+        },
+        {
+            "name": "Rafael Araújo",
+            "height": "211"
+        },
+        {
+            "name": "Stacey Arceneaux",
+            "height": "193"
+        },
+        {
+            "name": "Robert Archibald",
+            "height": "211"
+        },
+        {
+            "name": "Tiny Archibald",
+            "height": "185"
+        },
+        {
+            "name": "Ryan Arcidiacono",
+            "height": "191"
+        },
+        {
+            "name": "Jim Ard",
+            "height": "203"
+        },
+        {
+            "name": "Gilbert Arenas",
+            "height": "193"
+        },
+        {
+            "name": "Trevor Ariza",
+            "height": "203"
+        },
+        {
+            "name": "Paul Arizin",
+            "height": "193"
+        },
+        {
+            "name": "Joe Arlauckas",
+            "height": "206"
+        },
+        {
+            "name": "B.J. Armstrong",
+            "height": "188"
+        },
+        {
+            "name": "Bob Armstrong",
+            "height": "203"
+        },
+        {
+            "name": "Brandon Armstrong",
+            "height": "196"
+        },
+        {
+            "height": "NaN"
+        },
+        {
+            "name": "Curly Armstrong",
+            "height": "180"
+        },
+        {
+            "name": "Darrell Armstrong",
+            "height": "183"
+        },
+        {
+            "name": "Hilton Armstrong",
+            "height": "211"
+        },
+        {
+            "name": "Tate Armstrong",
+            "height": "191"
+        },
+        {
+            "name": "Jesse Arnelle",
+            "height": "196"
+        },
+        {
+            "name": "Jay Arnette",
+            "height": "188"
+        },
+        {
+            "name": "Bob Arnzen",
+            "height": "196"
+        },
+        {
+            "name": "Carlos Arroyo",
+            "height": "188"
+        },
+        {
+            "name": "Darrell Arthur",
+            "height": "206"
+        },
+        {
+            "name": "John Arthurs",
+            "height": "193"
+        },
+        {
+            "name": "Jamel Artis",
+            "height": "201"
+        },
+        {
+            "name": "Ömer Aşık",
+            "height": "213"
+        },
+        {
+            "name": "Vincent Askew",
+            "height": "198"
+        },
+        {
+            "name": "Keith Askins",
+            "height": "201"
+        },
+        {
+            "name": "Don Asmonga",
+            "height": "188"
+        },
+        {
+            "name": "Dick Atha",
+            "height": "188"
+        },
+        {
+            "name": "Chucky Atkins",
+            "height": "180"
+        },
+        {
+            "name": "Al Attles",
+            "height": "183"
+        },
+        {
+            "name": "Chet Aubuchon",
+            "height": "178"
+        },
+        {
+            "name": "Stacey Augmon",
+            "height": "203"
+        },
+        {
+            "height": "NaN"
+        },
+        {
+            "name": "D.J. Augustin",
+            "height": "180"
+        },
+        {
+            "name": "James Augustine",
+            "height": "208"
+        },
+        {
+            "name": "Isaac Austin",
+            "height": "208"
+        },
+        {
+            "name": "Johnny Austin",
+            "height": "183"
+        },
+        {
+            "name": "Ken Austin",
+            "height": "206"
+        },
+        {
+            "name": "Deni Avdija",
+            "height": "206"
+        },
+        {
+            "name": "Anthony Avent",
+            "height": "206"
+        },
+        {
+            "name": "Bird Averitt",
+            "height": "185"
+        },
+        {
+            "name": "William Avery",
+            "height": "188"
+        },
+        {
+            "name": "Dennis Awtrey",
+            "height": "208"
+        },
+        {
+            "name": "Joel Ayayi",
+            "height": "196"
+        },
+        {
+            "name": "Gustavo Ayón",
+            "height": "208"
+        },
+        {
+            "name": "Jeff Ayres",
+            "height": "206"
+        },
+        {
+            "name": "Deandre Ayton",
+            "height": "213"
+        },
+        {
+            "name": "Kelenna Azubuike",
+            "height": "196"
+        },
+        {
+            "name": "Udoka Azubuike",
+            "height": "208"
+        }
+    ]
+}

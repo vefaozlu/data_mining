@@ -1,0 +1,641 @@
+{
+    "f": [
+        {
+            "name": "Joe Fabel",
+            "height": "185"
+        },
+        {
+            "name": "John Fairchild",
+            "height": "203"
+        },
+        {
+            "name": "Tacko Fall",
+            "height": "229"
+        },
+        {
+            "name": "Phil Farbman",
+            "height": "185"
+        },
+        {
+            "name": "Kenneth Faried",
+            "height": "203"
+        },
+        {
+            "name": "Dick Farley",
+            "height": "193"
+        },
+        {
+            "name": "Jordan Farmar",
+            "height": "188"
+        },
+        {
+            "name": "Desmon Farmer",
+            "height": "196"
+        },
+        {
+            "name": "Jim Farmer",
+            "height": "193"
+        },
+        {
+            "name": "Mike Farmer",
+            "height": "201"
+        },
+        {
+            "name": "Tony Farmer",
+            "height": "206"
+        },
+        {
+            "name": "Bob Faught",
+            "height": "196"
+        },
+        {
+            "name": "Vítor Luiz Faverani",
+            "height": "211"
+        },
+        {
+            "name": "Derrick Favors",
+            "height": "206"
+        },
+        {
+            "name": "Nick Fazekas",
+            "height": "211"
+        },
+        {
+            "name": "Dave Fedor",
+            "height": "198"
+        },
+        {
+            "name": "Bob Feerick",
+            "height": "191"
+        },
+        {
+            "name": "Butch Feher",
+            "height": "193"
+        },
+        {
+            "name": "Jamie Feick",
+            "height": "206"
+        },
+        {
+            "name": "Ron Feiereisel",
+            "height": "191"
+        },
+        {
+            "height": "NaN"
+        },
+        {
+            "name": "George Feigenbaum",
+            "height": "185"
+        },
+        {
+            "name": "Dave Feitl",
+            "height": "211"
+        },
+        {
+            "name": "Kay Felder",
+            "height": "175"
+        },
+        {
+            "name": "Cristiano Felício",
+            "height": "211"
+        },
+        {
+            "name": "Carrick Felix",
+            "height": "198"
+        },
+        {
+            "name": "Noel Felix",
+            "height": "206"
+        },
+        {
+            "name": "Ray Felix",
+            "height": "211"
+        },
+        {
+            "name": "Raymond Felton",
+            "height": "185"
+        },
+        {
+            "name": "Jake Fendley",
+            "height": "183"
+        },
+        {
+            "name": "Warren Fenley",
+            "height": "191"
+        },
+        {
+            "name": "Desmond Ferguson",
+            "height": "201"
+        },
+        {
+            "name": "Terrance Ferguson",
+            "height": "198"
+        },
+        {
+            "name": "Rudy Fernández",
+            "height": "198"
+        },
+        {
+            "name": "Bruno Fernando",
+            "height": "206"
+        },
+        {
+            "name": "Eric Fernsten",
+            "height": "208"
+        },
+        {
+            "name": "Al Ferrari",
+            "height": "193"
+        },
+        {
+            "name": "Rolando Ferreira",
+            "height": "216"
+        },
+        {
+            "name": "Duane Ferrell",
+            "height": "201"
+        },
+        {
+            "name": "Yogi Ferrell",
+            "height": "183"
+        },
+        {
+            "name": "Arnie Ferrin",
+            "height": "188"
+        },
+        {
+            "height": "NaN"
+        },
+        {
+            "name": "Bob Ferry",
+            "height": "203"
+        },
+        {
+            "name": "Danny Ferry",
+            "height": "208"
+        },
+        {
+            "name": "Kyrylo Fesenko",
+            "height": "216"
+        },
+        {
+            "name": "Bobby Fields",
+            "height": "191"
+        },
+        {
+            "name": "Kenny Fields",
+            "height": "196"
+        },
+        {
+            "name": "Landry Fields",
+            "height": "201"
+        },
+        {
+            "name": "Ron Filipek",
+            "height": "196"
+        },
+        {
+            "name": "Greg Fillmore",
+            "height": "216"
+        },
+        {
+            "name": "Larry Finch",
+            "height": "188"
+        },
+        {
+            "name": "Hank Finkel",
+            "height": "213"
+        },
+        {
+            "name": "Michael Finley",
+            "height": "201"
+        },
+        {
+            "name": "Danny Finn",
+            "height": "185"
+        },
+        {
+            "name": "Dorian Finney-Smith",
+            "height": "201"
+        },
+        {
+            "name": "Matt Fish",
+            "height": "211"
+        },
+        {
+            "name": "Derek Fisher",
+            "height": "185"
+        },
+        {
+            "name": "Rick Fisher",
+            "height": "196"
+        },
+        {
+            "name": "Gerald Fitch",
+            "height": "191"
+        },
+        {
+            "name": "Malik Fitts",
+            "height": "203"
+        },
+        {
+            "name": "Bob Fitzgerald",
+            "height": "196"
+        },
+        {
+            "name": "Dick Fitzgerald",
+            "height": "188"
+        },
+        {
+            "height": "NaN"
+        },
+        {
+            "name": "Marcus Fizer",
+            "height": "206"
+        },
+        {
+            "name": "Jerry Fleishman",
+            "height": "188"
+        },
+        {
+            "name": "Al Fleming",
+            "height": "201"
+        },
+        {
+            "name": "Ed Fleming",
+            "height": "191"
+        },
+        {
+            "name": "Vern Fleming",
+            "height": "196"
+        },
+        {
+            "name": "Luis Flores",
+            "height": "188"
+        },
+        {
+            "name": "Bruce Flowers",
+            "height": "203"
+        },
+        {
+            "name": "Sleepy Floyd",
+            "height": "191"
+        },
+        {
+            "name": "Jonny Flynn",
+            "height": "183"
+        },
+        {
+            "name": "Malachi Flynn",
+            "height": "185"
+        },
+        {
+            "name": "Mike Flynn",
+            "height": "188"
+        },
+        {
+            "name": "Larry Fogle",
+            "height": "196"
+        },
+        {
+            "name": "Jack Foley",
+            "height": "191"
+        },
+        {
+            "name": "Isaac Fontaine",
+            "height": "193"
+        },
+        {
+            "name": "Levi Fontaine",
+            "height": "193"
+        },
+        {
+            "name": "Simone Fontecchio",
+            "height": "203"
+        },
+        {
+            "name": "Jeff Foote",
+            "height": "213"
+        },
+        {
+            "name": "Bryn Forbes",
+            "height": "188"
+        },
+        {
+            "name": "Gary Forbes",
+            "height": "201"
+        },
+        {
+            "name": "Aleem Ford",
+            "height": "203"
+        },
+        {
+            "height": "NaN"
+        },
+        {
+            "name": "Alphonso Ford",
+            "height": "185"
+        },
+        {
+            "name": "Alton Ford",
+            "height": "206"
+        },
+        {
+            "name": "Bob Ford",
+            "height": "201"
+        },
+        {
+            "name": "Chris Ford",
+            "height": "196"
+        },
+        {
+            "name": "Don Ford",
+            "height": "206"
+        },
+        {
+            "name": "Jake Ford",
+            "height": "191"
+        },
+        {
+            "name": "Jordan Ford",
+            "height": "185"
+        },
+        {
+            "name": "Phil Ford",
+            "height": "188"
+        },
+        {
+            "name": "Sharrod Ford",
+            "height": "206"
+        },
+        {
+            "name": "Sherell Ford",
+            "height": "201"
+        },
+        {
+            "name": "T.J. Ford",
+            "height": "183"
+        },
+        {
+            "name": "Donnie Forman",
+            "height": "178"
+        },
+        {
+            "name": "Bayard Forrest",
+            "height": "208"
+        },
+        {
+            "name": "Trent Forrest",
+            "height": "193"
+        },
+        {
+            "name": "Joseph Forte",
+            "height": "193"
+        },
+        {
+            "name": "Courtney Fortson",
+            "height": "180"
+        },
+        {
+            "name": "Danny Fortson",
+            "height": "201"
+        },
+        {
+            "name": "Fred Foster",
+            "height": "196"
+        },
+        {
+            "name": "Greg Foster",
+            "height": "211"
+        },
+        {
+            "name": "Jeff Foster",
+            "height": "211"
+        },
+        {
+            "height": "NaN"
+        },
+        {
+            "name": "Jimmy Foster",
+            "height": "185"
+        },
+        {
+            "name": "Michael Foster Jr.",
+            "height": "203"
+        },
+        {
+            "name": "Rod Foster",
+            "height": "185"
+        },
+        {
+            "name": "Antonis Fotsis",
+            "height": "208"
+        },
+        {
+            "name": "Evan Fournier",
+            "height": "198"
+        },
+        {
+            "name": "Larry Foust",
+            "height": "206"
+        },
+        {
+            "name": "Calvin Fowler",
+            "height": "183"
+        },
+        {
+            "name": "Jerry Fowler",
+            "height": "203"
+        },
+        {
+            "name": "Tremaine Fowlkes",
+            "height": "203"
+        },
+        {
+            "name": "De'Aaron Fox",
+            "height": "191"
+        },
+        {
+            "name": "Harold Fox",
+            "height": "188"
+        },
+        {
+            "name": "Jim Fox",
+            "height": "208"
+        },
+        {
+            "name": "Rick Fox",
+            "height": "201"
+        },
+        {
+            "name": "Randy Foye",
+            "height": "193"
+        },
+        {
+            "name": "Adonal Foyle",
+            "height": "208"
+        },
+        {
+            "name": "Richie Frahm",
+            "height": "196"
+        },
+        {
+            "name": "Steve Francis",
+            "height": "191"
+        },
+        {
+            "name": "Tellis Frank",
+            "height": "208"
+        },
+        {
+            "name": "Nat Frankel",
+            "height": "183"
+        },
+        {
+            "name": "Bill Franklin",
+            "height": "201"
+        },
+        {
+            "height": "NaN"
+        },
+        {
+            "name": "Jamaal Franklin",
+            "height": "196"
+        },
+        {
+            "name": "Robert Franks",
+            "height": "201"
+        },
+        {
+            "name": "Ron Franz",
+            "height": "201"
+        },
+        {
+            "name": "Melvin Frazier",
+            "height": "196"
+        },
+        {
+            "name": "Michael Frazier",
+            "height": "191"
+        },
+        {
+            "name": "Tim Frazier",
+            "height": "183"
+        },
+        {
+            "name": "Walt Frazier",
+            "height": "193"
+        },
+        {
+            "name": "Will Frazier",
+            "height": "201"
+        },
+        {
+            "name": "Anthony Frederick",
+            "height": "201"
+        },
+        {
+            "name": "Jimmer Fredette",
+            "height": "188"
+        },
+        {
+            "name": "World B. Free",
+            "height": "188"
+        },
+        {
+            "name": "Enes Freedom",
+            "height": "208"
+        },
+        {
+            "name": "Joel Freeland",
+            "height": "208"
+        },
+        {
+            "name": "Donnie Freeman",
+            "height": "191"
+        },
+        {
+            "name": "Gary Freeman",
+            "height": "206"
+        },
+        {
+            "name": "Rod Freeman",
+            "height": "201"
+        },
+        {
+            "name": "Matt Freije",
+            "height": "208"
+        },
+        {
+            "name": "Frido Frey",
+            "height": "188"
+        },
+        {
+            "name": "Larry Friend",
+            "height": "193"
+        },
+        {
+            "name": "Pat Frink",
+            "height": "193"
+        },
+        {
+            "height": "NaN"
+        },
+        {
+            "name": "Jim Fritsche",
+            "height": "203"
+        },
+        {
+            "name": "Channing Frye",
+            "height": "213"
+        },
+        {
+            "name": "Bernie Fryer",
+            "height": "191"
+        },
+        {
+            "name": "Frank Fucarino",
+            "height": "188"
+        },
+        {
+            "name": "Alex Fudge",
+            "height": "203"
+        },
+        {
+            "name": "Herm Fuetsch",
+            "height": "183"
+        },
+        {
+            "name": "Joe Fulks",
+            "height": "196"
+        },
+        {
+            "name": "Carl Fuller",
+            "height": "206"
+        },
+        {
+            "name": "Hiram Fuller",
+            "height": "206"
+        },
+        {
+            "name": "Todd Fuller",
+            "height": "211"
+        },
+        {
+            "name": "Tony Fuller",
+            "height": "193"
+        },
+        {
+            "name": "Markelle Fultz",
+            "height": "193"
+        },
+        {
+            "name": "Lawrence Funderburke",
+            "height": "206"
+        },
+        {
+            "name": "Terry Furlow",
+            "height": "193"
+        }
+    ]
+}

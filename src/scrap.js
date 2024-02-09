@@ -2,12 +2,19 @@ const { parseFromString } = require("dom-parser");
 const puppeteer = require("puppeteer");
 const { stringify } = require("csv-stringify");
 const fs = require("fs");
+const fsPromises = require("fs").promises;
 
 (async () => {
-  const writableStream = fs.createWriteStream("stats.csv");
+  const heightsJSON = await fsPromises.readFile("playerheights.json", "utf8");
+  const heights = JSON.parse(heightsJSON);
+
+  const writableStream = fs.createWriteStream("stats1.csv");
 
   var allStats = [];
-  const years = [2024, 2020, 2016, 2012, 2008, 2004, 2000, 1996];
+  const years = [
+    2024, 2022, 2020, 2018, 2016, 2014, 2012, 2010, 2008, 2006, 2004, 2002,
+    2000, 1998, 1996,
+  ];
   const positions = [
     "point-guard",
     "shooting-guard",
@@ -16,6 +23,7 @@ const fs = require("fs");
     "center",
   ];
   const columns = [
+    "HT",
     "POS",
     "GP",
     "MIN",
@@ -39,10 +47,11 @@ const fs = require("fs");
   ];
 
   const stringifier = stringify({ header: true, columns: columns });
+  const browser = await puppeteer.launch();
 
   for (i in years) {
     for (j in positions) {
-      const browser = await puppeteer.launch();
+      console.log(`Year: ${years[i]} Position: ${positions[j]}`);
 
       const page = await browser.newPage();
 
@@ -59,6 +68,29 @@ const fs = require("fs");
         )
       );
 
+      const parsed1 = parseFromString(tables[0], "text/html");
+
+      var playerHeights = [];
+
+      parsed1.getElementsByTagName("tr").forEach((element) => {
+        const name =
+          element.childNodes[1].childNodes[0].childNodes[1].innerHTML;
+
+        var parts = name.split(" ");
+        var surname = parts[parts.length - 1];
+        var firstLetter = surname.charAt(0);
+
+        try {
+          const found = heights[firstLetter.toLocaleLowerCase()].find(
+            (p) => p.name === name
+          );
+
+          playerHeights.push(found === undefined ? null : found.height);
+        } catch (err) {
+          playerHeights.push(null);
+        }
+      });
+
       const parsed = parseFromString(tables[1], "text/html");
 
       var players = [];
@@ -72,10 +104,15 @@ const fs = require("fs");
         players.push(player);
       });
 
+      players.map((player, index) => {
+        player.unshift(playerHeights[index]);
+      });
+
+      console.log(players);
       allStats.push(players);
-      await browser.close();
     }
   }
+  await browser.close();
 
   allStats.map((stats) => {
     stats.map((player) => {
@@ -84,34 +121,3 @@ const fs = require("fs");
   });
   stringifier.pipe(writableStream);
 })();
-
-/*       players.map((player) => {
-        allStats.push({
-          POS: positions[j],
-          GP: player[1],
-          MIN: player[2],
-          PTS: player[3],
-          FGM: player[4],
-          FGA: player[5],
-          "FG%": player[6],
-          "3PM": player[7],
-          "3PA": player[8],
-          "3P%": player[9],
-          FTM: player[10],
-          FTA: player[11],
-          "FT%": player[12],
-          REB: player[13],
-          AST: player[14],
-          STL: player[15],
-          BLK: player[16],
-          TO: player[17],
-          DD2: player[18],
-          TD3: player[19],
-        });
-      }); */
-
-/*   fs.writeFile(
-    "playerstats.json",
-    JSON.stringify({ stats: allStats }),
-    "utf8"
-  ); */

@@ -3,13 +3,16 @@ const fs = require("fs").promises;
 
 (async () => {
   var allPlayers = {};
-  letters = "abcdefghijklmnopqrstuvwyz".split("");
+  //  letters = "abcdefghijklmnopqrstuvwyz".split("");
+  letters = "klmnopqrstuvwyz".split("");
+
+  const browser = await puppeteer.launch();
 
   for (i in letters) {
     try {
-      const browser = await puppeteer.launch();
-
       const page = await browser.newPage();
+
+      console.log("");
 
       await page.goto(
         `https://www.basketball-reference.com/players/${letters[i]}/`,
@@ -39,16 +42,15 @@ const fs = require("fs").promises;
       allPlayers[letters[i]] = players;
 
       console.log(i);
-
-      await browser.close();
     } catch (e) {
       console.log(e);
       break;
     }
   }
 
+  await browser.close();
   console.log(allPlayers);
-  await fs.writeFile("playerheights.json", JSON.stringify(allPlayers), "utf8");
+  await fs.writeFile("playerheights3.json", JSON.stringify(allPlayers), "utf8");
 
   return;
 })();

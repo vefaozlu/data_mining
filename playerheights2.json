@@ -1,0 +1,3760 @@
+{
+    "g": [
+        {
+            "name": "Bill Gabor",
+            "height": "180"
+        },
+        {
+            "name": "Wenyen Gabriel",
+            "height": "206"
+        },
+        {
+            "name": "Dan Gadzuric",
+            "height": "211"
+        },
+        {
+            "name": "Daniel Gafford",
+            "height": "208"
+        },
+        {
+            "name": "Deng Gai",
+            "height": "206"
+        },
+        {
+            "name": "Elmer Gainer",
+            "height": "198"
+        },
+        {
+            "name": "Bill Gaines",
+            "height": "193"
+        },
+        {
+            "name": "Corey Gaines",
+            "height": "191"
+        },
+        {
+            "name": "Reece Gaines",
+            "height": "198"
+        },
+        {
+            "name": "Smokey Gaines",
+            "height": "185"
+        },
+        {
+            "name": "Sundiata Gaines",
+            "height": "185"
+        },
+        {
+            "name": "Mike Gale",
+            "height": "193"
+        },
+        {
+            "name": "Chad Gallagher",
+            "height": "208"
+        },
+        {
+            "name": "Harry Gallatin",
+            "height": "198"
+        },
+        {
+            "name": "Gene Gallette",
+            "height": "188"
+        },
+        {
+            "name": "Danilo Gallinari",
+            "height": "208"
+        },
+        {
+            "name": "Langston Galloway",
+            "height": "185"
+        },
+        {
+            "name": "Dave Gambee",
+            "height": "198"
+        },
+        {
+            "name": "Kevin Gamble",
+            "height": "196"
+        },
+        {
+            "name": "Bob Gantt",
+            "height": "193"
+        },
+        {
+            "height": "NaN"
+        },
+        {
+            "name": "Jorge Garbajosa",
+            "height": "206"
+        },
+        {
+            "name": "Rubén Garcés",
+            "height": "206"
+        },
+        {
+            "name": "Alex Garcia",
+            "height": "191"
+        },
+        {
+            "name": "Francisco García",
+            "height": "201"
+        },
+        {
+            "name": "Chuck Gardner",
+            "height": "203"
+        },
+        {
+            "name": "Earl Gardner",
+            "height": "191"
+        },
+        {
+            "name": "Ken Gardner",
+            "height": "196"
+        },
+        {
+            "name": "Thomas Gardner",
+            "height": "196"
+        },
+        {
+            "name": "Vern Gardner",
+            "height": "196"
+        },
+        {
+            "name": "Jack Garfinkel",
+            "height": "183"
+        },
+        {
+            "name": "Patricio Garino",
+            "height": "198"
+        },
+        {
+            "name": "Darius Garland",
+            "height": "185"
+        },
+        {
+            "name": "Gary Garland",
+            "height": "193"
+        },
+        {
+            "name": "Winston Garland",
+            "height": "188"
+        },
+        {
+            "name": "Dick Garmaker",
+            "height": "191"
+        },
+        {
+            "name": "Bill Garner",
+            "height": "208"
+        },
+        {
+            "name": "Chris Garner",
+            "height": "178"
+        },
+        {
+            "name": "Bill Garnett",
+            "height": "206"
+        },
+        {
+            "name": "Kevin Garnett",
+            "height": "211"
+        },
+        {
+            "name": "Marlon Garnett",
+            "height": "188"
+        },
+        {
+            "height": "NaN"
+        },
+        {
+            "name": "Billy Garrett",
+            "height": "198"
+        },
+        {
+            "name": "Calvin Garrett",
+            "height": "201"
+        },
+        {
+            "name": "Dean Garrett",
+            "height": "208"
+        },
+        {
+            "name": "Diante Garrett",
+            "height": "193"
+        },
+        {
+            "name": "Dick Garrett",
+            "height": "191"
+        },
+        {
+            "name": "Marcus Garrett",
+            "height": "196"
+        },
+        {
+            "name": "Rowland Garrett",
+            "height": "198"
+        },
+        {
+            "name": "Tom Garrick",
+            "height": "188"
+        },
+        {
+            "name": "John Garris",
+            "height": "203"
+        },
+        {
+            "name": "Kiwane Lemorris Garris",
+            "height": "188"
+        },
+        {
+            "name": "Pat Garrity",
+            "height": "206"
+        },
+        {
+            "name": "Usman Garuba",
+            "height": "203"
+        },
+        {
+            "name": "Jim Garvin",
+            "height": "201"
+        },
+        {
+            "name": "Luka Garza",
+            "height": "208"
+        },
+        {
+            "name": "Marc Gasol",
+            "height": "211"
+        },
+        {
+            "name": "Pau Gasol",
+            "height": "213"
+        },
+        {
+            "name": "Frank Gates",
+            "height": "183"
+        },
+        {
+            "name": "Kaiser Gates",
+            "height": "203"
+        },
+        {
+            "name": "Chris Gatling",
+            "height": "208"
+        },
+        {
+            "name": "Kenny Gattison",
+            "height": "203"
+        },
+        {
+            "height": "NaN"
+        },
+        {
+            "name": "Rudy Gay",
+            "height": "203"
+        },
+        {
+            "name": "Ed Gayda",
+            "height": "193"
+        },
+        {
+            "name": "Andrew Gaze",
+            "height": "201"
+        },
+        {
+            "name": "Michael Gbinije",
+            "height": "201"
+        },
+        {
+            "name": "Reggie Geary",
+            "height": "188"
+        },
+        {
+            "name": "Alonzo Gee",
+            "height": "198"
+        },
+        {
+            "name": "Matt Geiger",
+            "height": "213"
+        },
+        {
+            "name": "Mickaël Gelabale",
+            "height": "201"
+        },
+        {
+            "name": "Devean George",
+            "height": "203"
+        },
+        {
+            "name": "Jack George",
+            "height": "188"
+        },
+        {
+            "name": "Keyonte George",
+            "height": "193"
+        },
+        {
+            "name": "Paul George",
+            "height": "203"
+        },
+        {
+            "name": "Tate George",
+            "height": "196"
+        },
+        {
+            "name": "Marcus Georges-Hunt",
+            "height": "196"
+        },
+        {
+            "name": "Gus Gerard",
+            "height": "203"
+        },
+        {
+            "name": "Derrick Gervin",
+            "height": "203"
+        },
+        {
+            "name": "George Gervin",
+            "height": "201"
+        },
+        {
+            "name": "Gorham Getchell",
+            "height": "193"
+        },
+        {
+            "name": "John Gianelli",
+            "height": "208"
+        },
+        {
+            "name": "Dick Gibbs",
+            "height": "196"
+        },
+        {
+            "height": "NaN"
+        },
+        {
+            "name": "Daniel Gibson",
+            "height": "188"
+        },
+        {
+            "name": "Dee Gibson",
+            "height": "180"
+        },
+        {
+            "name": "Hoot Gibson",
+            "height": "196"
+        },
+        {
+            "name": "Jonathan Gibson",
+            "height": "188"
+        },
+        {
+            "name": "Mel Gibson",
+            "height": "191"
+        },
+        {
+            "name": "Mike Gibson",
+            "height": "208"
+        },
+        {
+            "name": "Taj Gibson",
+            "height": "206"
+        },
+        {
+            "name": "J.R. Giddens",
+            "height": "196"
+        },
+        {
+            "name": "Josh Giddey",
+            "height": "203"
+        },
+        {
+            "name": "Trey Gilder",
+            "height": "206"
+        },
+        {
+            "name": "Harry Giles",
+            "height": "211"
+        },
+        {
+            "name": "Shai Gilgeous-Alexander",
+            "height": "198"
+        },
+        {
+            "name": "Anthony Gill",
+            "height": "201"
+        },
+        {
+            "name": "Eddie Gill",
+            "height": "183"
+        },
+        {
+            "name": "Kendall Gill",
+            "height": "196"
+        },
+        {
+            "name": "Ben Gillery",
+            "height": "213"
+        },
+        {
+            "name": "Collin Gillespie",
+            "height": "185"
+        },
+        {
+            "name": "Freddie Gillespie",
+            "height": "206"
+        },
+        {
+            "name": "Jack Gillespie",
+            "height": "198"
+        },
+        {
+            "name": "Armen Gilliam",
+            "height": "206"
+        },
+        {
+            "height": "NaN"
+        },
+        {
+            "name": "Herm Gilliam",
+            "height": "191"
+        },
+        {
+            "name": "Artis Gilmore",
+            "height": "218"
+        },
+        {
+            "name": "Walt Gilmore",
+            "height": "198"
+        },
+        {
+            "name": "Chuck Gilmur",
+            "height": "193"
+        },
+        {
+            "name": "Jacob Gilyard",
+            "height": "175"
+        },
+        {
+            "name": "Manu Ginóbili",
+            "height": "198"
+        },
+        {
+            "name": "Gordan Giriček",
+            "height": "198"
+        },
+        {
+            "name": "Jack Givens",
+            "height": "196"
+        },
+        {
+            "name": "Mickell Gladness",
+            "height": "211"
+        },
+        {
+            "name": "George Glamack",
+            "height": "198"
+        },
+        {
+            "name": "Gerald Glass",
+            "height": "196"
+        },
+        {
+            "name": "Mike Glenn",
+            "height": "188"
+        },
+        {
+            "name": "Normie Glick",
+            "height": "201"
+        },
+        {
+            "name": "Georgi Glouchkov",
+            "height": "203"
+        },
+        {
+            "name": "Clarence Glover",
+            "height": "203"
+        },
+        {
+            "name": "Dion Glover",
+            "height": "196"
+        },
+        {
+            "name": "Andreas Glyniadakis",
+            "height": "216"
+        },
+        {
+            "name": "Mike Gminski",
+            "height": "211"
+        },
+        {
+            "name": "Rudy Gobert",
+            "height": "216"
+        },
+        {
+            "name": "Dan Godfread",
+            "height": "208"
+        },
+        {
+            "height": "NaN"
+        },
+        {
+            "name": "Tom Gola",
+            "height": "198"
+        },
+        {
+            "name": "Ben Goldfaden",
+            "height": "185"
+        },
+        {
+            "name": "Anthony Goldwire",
+            "height": "185"
+        },
+        {
+            "name": "Ryan Gomes",
+            "height": "201"
+        },
+        {
+            "name": "Glen Gondrezick",
+            "height": "198"
+        },
+        {
+            "name": "Grant Gondrezick",
+            "height": "196"
+        },
+        {
+            "name": "Drew Gooden",
+            "height": "208"
+        },
+        {
+            "name": "Gail Goodrich",
+            "height": "185"
+        },
+        {
+            "name": "Steve Goodrich",
+            "height": "208"
+        },
+        {
+            "name": "Archie Goodwin",
+            "height": "196"
+        },
+        {
+            "name": "Brandon Goodwin",
+            "height": "183"
+        },
+        {
+            "name": "Jordan Goodwin",
+            "height": "191"
+        },
+        {
+            "name": "Pop Goodwin",
+            "height": "188"
+        },
+        {
+            "name": "Aaron Gordon",
+            "height": "203"
+        },
+        {
+            "name": "Ben Gordon",
+            "height": "191"
+        },
+        {
+            "name": "Drew Gordon",
+            "height": "206"
+        },
+        {
+            "name": "Eric Gordon",
+            "height": "191"
+        },
+        {
+            "name": "Lancaster Gordon",
+            "height": "191"
+        },
+        {
+            "name": "Paul Gordon",
+            "height": "191"
+        },
+        {
+            "name": "Marcin Gortat",
+            "height": "211"
+        },
+        {
+            "height": "NaN"
+        },
+        {
+            "name": "Leo Gottlieb",
+            "height": "180"
+        },
+        {
+            "name": "Andrew Goudelock",
+            "height": "191"
+        },
+        {
+            "name": "Gerald Govan",
+            "height": "208"
+        },
+        {
+            "name": "Bato Govedarica",
+            "height": "180"
+        },
+        {
+            "name": "Joe Graboski",
+            "height": "201"
+        },
+        {
+            "name": "Ricky Grace",
+            "height": "185"
+        },
+        {
+            "name": "Calvin Graham",
+            "height": "188"
+        },
+        {
+            "name": "Devonte' Graham",
+            "height": "185"
+        },
+        {
+            "name": "Greg Graham",
+            "height": "193"
+        },
+        {
+            "name": "Joey Graham",
+            "height": "201"
+        },
+        {
+            "name": "Mal Graham",
+            "height": "185"
+        },
+        {
+            "name": "Orlando Graham",
+            "height": "203"
+        },
+        {
+            "name": "Paul Graham",
+            "height": "198"
+        },
+        {
+            "name": "Stephen Graham",
+            "height": "198"
+        },
+        {
+            "name": "Treveon Graham",
+            "height": "196"
+        },
+        {
+            "name": "Jim Grandholm",
+            "height": "213"
+        },
+        {
+            "name": "Ron Grandison",
+            "height": "198"
+        },
+        {
+            "name": "Danny Granger",
+            "height": "206"
+        },
+        {
+            "name": "Stewart Granger",
+            "height": "191"
+        },
+        {
+            "name": "Brian Grant",
+            "height": "206"
+        },
+        {
+            "height": "NaN"
+        },
+        {
+            "name": "Bud Grant",
+            "height": "191"
+        },
+        {
+            "name": "Gary Grant",
+            "height": "191"
+        },
+        {
+            "name": "Greg Grant",
+            "height": "170"
+        },
+        {
+            "name": "Harvey Grant",
+            "height": "203"
+        },
+        {
+            "name": "Horace Grant",
+            "height": "208"
+        },
+        {
+            "name": "Jerami Grant",
+            "height": "201"
+        },
+        {
+            "name": "Jerian Grant",
+            "height": "193"
+        },
+        {
+            "name": "Josh Grant",
+            "height": "206"
+        },
+        {
+            "name": "Paul Grant",
+            "height": "213"
+        },
+        {
+            "name": "Travis Grant",
+            "height": "201"
+        },
+        {
+            "name": "Donte Grantham",
+            "height": "203"
+        },
+        {
+            "name": "Don Grate",
+            "height": "188"
+        },
+        {
+            "name": "Butch Graves",
+            "height": "191"
+        },
+        {
+            "name": "Hassani Gravett",
+            "height": "188"
+        },
+        {
+            "name": "Aaron Gray",
+            "height": "213"
+        },
+        {
+            "name": "Devin Gray",
+            "height": "201"
+        },
+        {
+            "name": "Ed Gray",
+            "height": "191"
+        },
+        {
+            "name": "Evric Gray",
+            "height": "201"
+        },
+        {
+            "name": "Gary Gray",
+            "height": "185"
+        },
+        {
+            "name": "Josh Gray",
+            "height": "183"
+        },
+        {
+            "height": "NaN"
+        },
+        {
+            "name": "Leonard Gray",
+            "height": "203"
+        },
+        {
+            "name": "RaiQuan Gray",
+            "height": "203"
+        },
+        {
+            "name": "Stuart Gray",
+            "height": "213"
+        },
+        {
+            "name": "Sylvester Gray",
+            "height": "198"
+        },
+        {
+            "name": "Wyndol Gray",
+            "height": "185"
+        },
+        {
+            "name": "Jeff Grayer",
+            "height": "196"
+        },
+        {
+            "name": "Bob Greacen",
+            "height": "201"
+        },
+        {
+            "name": "A.C. Green",
+            "height": "206"
+        },
+        {
+            "name": "A.J. Green",
+            "height": "193"
+        },
+        {
+            "name": "Danny Green",
+            "height": "198"
+        },
+        {
+            "name": "Devin Green",
+            "height": "201"
+        },
+        {
+            "name": "Draymond Green",
+            "height": "198"
+        },
+        {
+            "name": "Erick Green",
+            "height": "193"
+        },
+        {
+            "name": "Gerald Green",
+            "height": "198"
+        },
+        {
+            "name": "Jalen Green",
+            "height": "193"
+        },
+        {
+            "name": "JaMychal Green",
+            "height": "203"
+        },
+        {
+            "name": "Javonte Green",
+            "height": "193"
+        },
+        {
+            "name": "Jeff Green",
+            "height": "203"
+        },
+        {
+            "name": "Johnny Green",
+            "height": "196"
+        },
+        {
+            "name": "Josh Green",
+            "height": "196"
+        },
+        {
+            "height": "NaN"
+        },
+        {
+            "name": "Ken Green",
+            "height": "203"
+        },
+        {
+            "name": "Kenny Green",
+            "height": "198"
+        },
+        {
+            "name": "Lamar Green",
+            "height": "201"
+        },
+        {
+            "name": "Litterial Green",
+            "height": "185"
+        },
+        {
+            "name": "Luther Green",
+            "height": "201"
+        },
+        {
+            "name": "Mike Green",
+            "height": "208"
+        },
+        {
+            "name": "Rickey Green",
+            "height": "183"
+        },
+        {
+            "name": "Sean Green",
+            "height": "196"
+        },
+        {
+            "name": "Si Green",
+            "height": "188"
+        },
+        {
+            "name": "Sidney Green",
+            "height": "206"
+        },
+        {
+            "name": "Steve Green",
+            "height": "201"
+        },
+        {
+            "name": "Taurean Green",
+            "height": "183"
+        },
+        {
+            "name": "Tommie Green",
+            "height": "188"
+        },
+        {
+            "name": "Willie Green",
+            "height": "193"
+        },
+        {
+            "name": "Donté Greene",
+            "height": "211"
+        },
+        {
+            "name": "Orien Greene",
+            "height": "193"
+        },
+        {
+            "name": "Jerry Greenspan",
+            "height": "196"
+        },
+        {
+            "name": "Dave Greenwood",
+            "height": "206"
+        },
+        {
+            "name": "Hal Greer",
+            "height": "188"
+        },
+        {
+            "name": "Lynn Greer",
+            "height": "188"
+        },
+        {
+            "height": "NaN"
+        },
+        {
+            "name": "Gary Gregor",
+            "height": "201"
+        },
+        {
+            "name": "Claude Gregory",
+            "height": "203"
+        },
+        {
+            "name": "John Greig",
+            "height": "201"
+        },
+        {
+            "name": "Norm Grekin",
+            "height": "196"
+        },
+        {
+            "name": "Kevin Grevey",
+            "height": "196"
+        },
+        {
+            "name": "Dennis Grey",
+            "height": "203"
+        },
+        {
+            "name": "Adrian Griffin",
+            "height": "196"
+        },
+        {
+            "name": "AJ Griffin",
+            "height": "198"
+        },
+        {
+            "name": "Blake Griffin",
+            "height": "206"
+        },
+        {
+            "name": "Eddie Griffin",
+            "height": "208"
+        },
+        {
+            "name": "Greg Griffin",
+            "height": "201"
+        },
+        {
+            "name": "Paul Griffin",
+            "height": "206"
+        },
+        {
+            "name": "Taylor Griffin",
+            "height": "201"
+        },
+        {
+            "name": "Darrell Griffith",
+            "height": "193"
+        },
+        {
+            "name": "Chuck Grigsby",
+            "height": "196"
+        },
+        {
+            "name": "Quentin Grimes",
+            "height": "196"
+        },
+        {
+            "name": "Derek Grimm",
+            "height": "206"
+        },
+        {
+            "name": "Woody Grimshaw",
+            "height": "185"
+        },
+        {
+            "name": "Dick Groat",
+            "height": "180"
+        },
+        {
+            "name": "Bob Gross",
+            "height": "198"
+        },
+        {
+            "height": "NaN"
+        },
+        {
+            "name": "Mike Grosso",
+            "height": "206"
+        },
+        {
+            "name": "Jerry Grote",
+            "height": "193"
+        },
+        {
+            "name": "Alex Groza",
+            "height": "201"
+        },
+        {
+            "name": "Dick Grubar",
+            "height": "193"
+        },
+        {
+            "name": "Anthony Grundy",
+            "height": "191"
+        },
+        {
+            "name": "Ernie Grunfeld",
+            "height": "198"
+        },
+        {
+            "name": "Gene Guarilia",
+            "height": "196"
+        },
+        {
+            "name": "Pétur Guðmundsson",
+            "height": "218"
+        },
+        {
+            "name": "Marko Guduric",
+            "height": "198"
+        },
+        {
+            "name": "Richie Guerin",
+            "height": "193"
+        },
+        {
+            "name": "Mouhamed Gueye",
+            "height": "211"
+        },
+        {
+            "name": "Tom Gugliotta",
+            "height": "208"
+        },
+        {
+            "name": "Andrés Guibert",
+            "height": "208"
+        },
+        {
+            "name": "Jay Guidinger",
+            "height": "208"
+        },
+        {
+            "name": "Coulby Gunther",
+            "height": "193"
+        },
+        {
+            "name": "Dave Gunther",
+            "height": "201"
+        },
+        {
+            "name": "Al Guokas",
+            "height": "196"
+        },
+        {
+            "name": "Matt Guokas",
+            "height": "191"
+        },
+        {
+            "name": "Matt Guokas",
+            "height": "196"
+        },
+        {
+            "name": "Jorge Gutiérrez",
+            "height": "191"
+        },
+        {
+            "name": "Kyle Guy",
+            "height": "185"
+        },
+        {
+            "name": "A.J. Guyton",
+            "height": "185"
+        }
+    ],
+    "h": [
+        {
+            "name": "Rui Hachimura",
+            "height": "203"
+        },
+        {
+            "name": "Rudy Hackett",
+            "height": "206"
+        },
+        {
+            "name": "Hamed Haddadi",
+            "height": "218"
+        },
+        {
+            "name": "Jim Hadnot",
+            "height": "208"
+        },
+        {
+            "name": "Scott Haffner",
+            "height": "191"
+        },
+        {
+            "name": "Cliff Hagan",
+            "height": "193"
+        },
+        {
+            "name": "Glenn Hagan",
+            "height": "183"
+        },
+        {
+            "name": "Tom Hagan",
+            "height": "191"
+        },
+        {
+            "name": "Ashton Hagans",
+            "height": "191"
+        },
+        {
+            "name": "Robert Hahn",
+            "height": "208"
+        },
+        {
+            "name": "Al Hairston",
+            "height": "185"
+        },
+        {
+            "name": "Happy Hairston",
+            "height": "201"
+        },
+        {
+            "name": "Lindsay Hairston",
+            "height": "201"
+        },
+        {
+            "name": "Malik Hairston",
+            "height": "198"
+        },
+        {
+            "name": "P.J. Hairston",
+            "height": "198"
+        },
+        {
+            "name": "Marcus Haislip",
+            "height": "208"
+        },
+        {
+            "name": "Chick Halbert",
+            "height": "206"
+        },
+        {
+            "name": "Swede Halbrook",
+            "height": "221"
+        },
+        {
+            "name": "Bruce Hale",
+            "height": "185"
+        },
+        {
+            "name": "Hal Hale",
+            "height": "185"
+        },
+        {
+            "height": "NaN"
+        },
+        {
+            "name": "Jack Haley",
+            "height": "208"
+        },
+        {
+            "name": "Tyrese Haliburton",
+            "height": "196"
+        },
+        {
+            "name": "Shaler Halimon",
+            "height": "196"
+        },
+        {
+            "name": "Devon Hall",
+            "height": "188"
+        },
+        {
+            "name": "Donta Hall",
+            "height": "206"
+        },
+        {
+            "name": "Jordan Hall",
+            "height": "201"
+        },
+        {
+            "name": "Josh Hall",
+            "height": "206"
+        },
+        {
+            "name": "Mike Hall",
+            "height": "203"
+        },
+        {
+            "name": "Tyler Hall",
+            "height": "196"
+        },
+        {
+            "name": "Jeff Halliburton",
+            "height": "196"
+        },
+        {
+            "name": "Darvin Ham",
+            "height": "201"
+        },
+        {
+            "name": "Steve Hamer",
+            "height": "213"
+        },
+        {
+            "name": "Dale Hamilton",
+            "height": "183"
+        },
+        {
+            "name": "Daniel Hamilton",
+            "height": "201"
+        },
+        {
+            "name": "Dennis Hamilton",
+            "height": "203"
+        },
+        {
+            "name": "Joe Hamilton",
+            "height": "178"
+        },
+        {
+            "name": "Jordan Hamilton",
+            "height": "201"
+        },
+        {
+            "name": "Justin Hamilton",
+            "height": "213"
+        },
+        {
+            "name": "Ralph Hamilton",
+            "height": "185"
+        },
+        {
+            "name": "Richard Hamilton",
+            "height": "198"
+        },
+        {
+            "height": "NaN"
+        },
+        {
+            "name": "Roy Hamilton",
+            "height": "188"
+        },
+        {
+            "name": "Steve Hamilton",
+            "height": "198"
+        },
+        {
+            "name": "Tang Hamilton",
+            "height": "203"
+        },
+        {
+            "name": "Thomas Hamilton",
+            "height": "218"
+        },
+        {
+            "name": "Zendon Hamilton",
+            "height": "211"
+        },
+        {
+            "name": "Geert Hammink",
+            "height": "213"
+        },
+        {
+            "name": "Julian Hammond",
+            "height": "196"
+        },
+        {
+            "name": "Tom Hammonds",
+            "height": "206"
+        },
+        {
+            "name": "A.J. Hammons",
+            "height": "213"
+        },
+        {
+            "name": "Joe Hamood",
+            "height": "183"
+        },
+        {
+            "name": "R.J. Hampton",
+            "height": "193"
+        },
+        {
+            "name": "Darrin Hancock",
+            "height": "201"
+        },
+        {
+            "name": "Ben Handlogten",
+            "height": "208"
+        },
+        {
+            "name": "Cecil Hankins",
+            "height": "185"
+        },
+        {
+            "name": "Phil Hankinson",
+            "height": "203"
+        },
+        {
+            "name": "Dusty Hannahs",
+            "height": "191"
+        },
+        {
+            "name": "Alex Hannum",
+            "height": "201"
+        },
+        {
+            "name": "Don Hanrahan",
+            "height": "201"
+        },
+        {
+            "name": "Rollen Hans",
+            "height": "188"
+        },
+        {
+            "name": "Ben Hansbrough",
+            "height": "191"
+        },
+        {
+            "height": "NaN"
+        },
+        {
+            "name": "Tyler Hansbrough",
+            "height": "206"
+        },
+        {
+            "name": "Bob Hansen",
+            "height": "198"
+        },
+        {
+            "name": "Glenn Hansen",
+            "height": "193"
+        },
+        {
+            "name": "Lars Hansen",
+            "height": "208"
+        },
+        {
+            "name": "Travis Hansen",
+            "height": "198"
+        },
+        {
+            "name": "Reggie Hanson",
+            "height": "203"
+        },
+        {
+            "name": "Bill Hanzlik",
+            "height": "201"
+        },
+        {
+            "name": "Luke Harangody",
+            "height": "203"
+        },
+        {
+            "name": "Anfernee Hardaway",
+            "height": "201"
+        },
+        {
+            "name": "Tim Hardaway",
+            "height": "183"
+        },
+        {
+            "name": "Tim Hardaway Jr.",
+            "height": "196"
+        },
+        {
+            "name": "James Harden",
+            "height": "196"
+        },
+        {
+            "name": "Reggie Harding",
+            "height": "213"
+        },
+        {
+            "name": "Charlie Hardnett",
+            "height": "203"
+        },
+        {
+            "name": "Alan Hardy",
+            "height": "201"
+        },
+        {
+            "name": "Darrell Hardy",
+            "height": "201"
+        },
+        {
+            "name": "Jaden Hardy",
+            "height": "193"
+        },
+        {
+            "name": "James Hardy",
+            "height": "203"
+        },
+        {
+            "name": "Ira Harge",
+            "height": "206"
+        },
+        {
+            "name": "John Hargis",
+            "height": "188"
+        },
+        {
+            "height": "NaN"
+        },
+        {
+            "name": "Maurice Harkless",
+            "height": "201"
+        },
+        {
+            "name": "Jerry Harkness",
+            "height": "188"
+        },
+        {
+            "name": "Skip Harlicka",
+            "height": "185"
+        },
+        {
+            "name": "Jerome Harmon",
+            "height": "193"
+        },
+        {
+            "name": "Derek Harper",
+            "height": "193"
+        },
+        {
+            "name": "Jared Harper",
+            "height": "178"
+        },
+        {
+            "name": "Justin Harper",
+            "height": "208"
+        },
+        {
+            "name": "Mike Harper",
+            "height": "208"
+        },
+        {
+            "name": "Ron Harper",
+            "height": "198"
+        },
+        {
+            "name": "Ron Harper Jr.",
+            "height": "198"
+        },
+        {
+            "name": "Matt Harpring",
+            "height": "201"
+        },
+        {
+            "name": "Montrezl Harrell",
+            "height": "201"
+        },
+        {
+            "name": "Josh Harrellson",
+            "height": "208"
+        },
+        {
+            "name": "Adam Harrington",
+            "height": "196"
+        },
+        {
+            "name": "Al Harrington",
+            "height": "206"
+        },
+        {
+            "name": "Junior Harrington",
+            "height": "193"
+        },
+        {
+            "name": "Othella Harrington",
+            "height": "206"
+        },
+        {
+            "name": "Art Harris",
+            "height": "193"
+        },
+        {
+            "name": "Bernie Harris",
+            "height": "208"
+        },
+        {
+            "name": "Billy Harris",
+            "height": "188"
+        },
+        {
+            "height": "NaN"
+        },
+        {
+            "name": "Bob Harris",
+            "height": "201"
+        },
+        {
+            "name": "Chris Harris",
+            "height": "191"
+        },
+        {
+            "name": "Devin Harris",
+            "height": "191"
+        },
+        {
+            "name": "Elias Harris",
+            "height": "203"
+        },
+        {
+            "name": "Gary Harris",
+            "height": "193"
+        },
+        {
+            "name": "Jalen Harris",
+            "height": "196"
+        },
+        {
+            "name": "Joe Harris",
+            "height": "198"
+        },
+        {
+            "name": "Kevon Harris",
+            "height": "196"
+        },
+        {
+            "name": "Lucious Harris",
+            "height": "196"
+        },
+        {
+            "name": "Manny Harris",
+            "height": "196"
+        },
+        {
+            "name": "Mike Harris",
+            "height": "198"
+        },
+        {
+            "name": "Steve Harris",
+            "height": "196"
+        },
+        {
+            "name": "Terrel Harris",
+            "height": "196"
+        },
+        {
+            "name": "Tobias Harris",
+            "height": "203"
+        },
+        {
+            "name": "Tony Harris",
+            "height": "191"
+        },
+        {
+            "name": "Aaron Harrison",
+            "height": "198"
+        },
+        {
+            "name": "Andrew Harrison",
+            "height": "198"
+        },
+        {
+            "name": "Bob Harrison",
+            "height": "185"
+        },
+        {
+            "name": "David Harrison",
+            "height": "213"
+        },
+        {
+            "name": "Shaquille Harrison",
+            "height": "193"
+        },
+        {
+            "height": "NaN"
+        },
+        {
+            "name": "Jason Hart",
+            "height": "191"
+        },
+        {
+            "name": "Josh Hart",
+            "height": "193"
+        },
+        {
+            "name": "Isaiah Hartenstein",
+            "height": "213"
+        },
+        {
+            "name": "Antonio Harvey",
+            "height": "211"
+        },
+        {
+            "name": "Donnell Harvey",
+            "height": "203"
+        },
+        {
+            "name": "Scott Haskin",
+            "height": "211"
+        },
+        {
+            "name": "Clem Haskins",
+            "height": "191"
+        },
+        {
+            "name": "Udonis Haslem",
+            "height": "203"
+        },
+        {
+            "name": "Trenton Hassell",
+            "height": "196"
+        },
+        {
+            "name": "Billy Hassett",
+            "height": "180"
+        },
+        {
+            "name": "Joe Hassett",
+            "height": "196"
+        },
+        {
+            "name": "Scott Hastings",
+            "height": "208"
+        },
+        {
+            "name": "Kirk Haston",
+            "height": "206"
+        },
+        {
+            "name": "Vern Hatton",
+            "height": "191"
+        },
+        {
+            "name": "Sam Hauser",
+            "height": "203"
+        },
+        {
+            "name": "John Havlicek",
+            "height": "196"
+        },
+        {
+            "name": "Spencer Hawes",
+            "height": "216"
+        },
+        {
+            "name": "Steve Hawes",
+            "height": "206"
+        },
+        {
+            "name": "Bubbles Hawkins",
+            "height": "193"
+        },
+        {
+            "name": "Connie Hawkins",
+            "height": "203"
+        },
+        {
+            "height": "NaN"
+        },
+        {
+            "name": "Hersey Hawkins",
+            "height": "191"
+        },
+        {
+            "name": "Jordan Hawkins",
+            "height": "196"
+        },
+        {
+            "name": "Juaquin Hawkins",
+            "height": "201"
+        },
+        {
+            "name": "Marshall Hawkins",
+            "height": "191"
+        },
+        {
+            "name": "Michael Hawkins",
+            "height": "183"
+        },
+        {
+            "name": "Tom Hawkins",
+            "height": "196"
+        },
+        {
+            "name": "Nate Hawthorne",
+            "height": "193"
+        },
+        {
+            "name": "Chuck Hayes",
+            "height": "198"
+        },
+        {
+            "name": "Elvin Hayes",
+            "height": "206"
+        },
+        {
+            "name": "Jarvis Hayes",
+            "height": "201"
+        },
+        {
+            "name": "Jaxson Hayes",
+            "height": "213"
+        },
+        {
+            "name": "Jim Hayes",
+            "height": "191"
+        },
+        {
+            "name": "Killian Hayes",
+            "height": "196"
+        },
+        {
+            "name": "Nigel Hayes",
+            "height": "203"
+        },
+        {
+            "name": "Steve Hayes",
+            "height": "213"
+        },
+        {
+            "name": "Gordon Hayward",
+            "height": "201"
+        },
+        {
+            "name": "Lazar Hayward",
+            "height": "198"
+        },
+        {
+            "name": "Brendan Haywood",
+            "height": "213"
+        },
+        {
+            "name": "Spencer Haywood",
+            "height": "203"
+        },
+        {
+            "name": "John Hazen",
+            "height": "188"
+        },
+        {
+            "height": "NaN"
+        },
+        {
+            "name": "Walt Hazzard",
+            "height": "188"
+        },
+        {
+            "name": "Luther Head",
+            "height": "191"
+        },
+        {
+            "name": "Shane Heal",
+            "height": "183"
+        },
+        {
+            "name": "Brian Heaney",
+            "height": "188"
+        },
+        {
+            "name": "Gar Heard",
+            "height": "198"
+        },
+        {
+            "name": "Reggie Hearn",
+            "height": "196"
+        },
+        {
+            "name": "Herm Hedderick",
+            "height": "196"
+        },
+        {
+            "name": "Alvin Heggs",
+            "height": "203"
+        },
+        {
+            "name": "Tom Heinsohn",
+            "height": "201"
+        },
+        {
+            "name": "Dick Hemric",
+            "height": "198"
+        },
+        {
+            "name": "Alan Henderson",
+            "height": "206"
+        },
+        {
+            "name": "Cedric Henderson",
+            "height": "203"
+        },
+        {
+            "name": "Cedric Henderson",
+            "height": "201"
+        },
+        {
+            "name": "Dave Henderson",
+            "height": "196"
+        },
+        {
+            "name": "Gerald Henderson",
+            "height": "188"
+        },
+        {
+            "name": "Gerald Henderson",
+            "height": "196"
+        },
+        {
+            "name": "J.R. Henderson",
+            "height": "203"
+        },
+        {
+            "name": "Jerome Henderson",
+            "height": "211"
+        },
+        {
+            "name": "Kevin Henderson",
+            "height": "193"
+        },
+        {
+            "name": "Scoot Henderson",
+            "height": "191"
+        },
+        {
+            "height": "NaN"
+        },
+        {
+            "name": "Tom Henderson",
+            "height": "191"
+        },
+        {
+            "name": "Taylor Hendricks",
+            "height": "206"
+        },
+        {
+            "name": "Mark Hendrickson",
+            "height": "206"
+        },
+        {
+            "name": "Larry Hennessy",
+            "height": "191"
+        },
+        {
+            "name": "Don Henriksen",
+            "height": "201"
+        },
+        {
+            "name": "Aaron Henry",
+            "height": "198"
+        },
+        {
+            "name": "Al Henry",
+            "height": "206"
+        },
+        {
+            "name": "Bill Henry",
+            "height": "206"
+        },
+        {
+            "name": "Carl Henry",
+            "height": "198"
+        },
+        {
+            "name": "Conner Henry",
+            "height": "201"
+        },
+        {
+            "name": "Myke Henry",
+            "height": "198"
+        },
+        {
+            "name": "Skeeter Henry",
+            "height": "201"
+        },
+        {
+            "name": "Xavier Henry",
+            "height": "198"
+        },
+        {
+            "name": "John Henson",
+            "height": "206"
+        },
+        {
+            "name": "Steve Henson",
+            "height": "180"
+        },
+        {
+            "name": "Charlie Hentz",
+            "height": "196"
+        },
+        {
+            "name": "Bill Herman",
+            "height": "191"
+        },
+        {
+            "name": "Kleggie Hermsen",
+            "height": "206"
+        },
+        {
+            "name": "Dewan Hernandez",
+            "height": "208"
+        },
+        {
+            "name": "Juancho Hernangómez",
+            "height": "206"
+        },
+        {
+            "height": "NaN"
+        },
+        {
+            "name": "Willy Hernangómez",
+            "height": "211"
+        },
+        {
+            "name": "Chris Herren",
+            "height": "188"
+        },
+        {
+            "name": "Carl Herrera",
+            "height": "206"
+        },
+        {
+            "name": "Walter Herrmann",
+            "height": "206"
+        },
+        {
+            "name": "Tyler Herro",
+            "height": "196"
+        },
+        {
+            "name": "Keith Herron",
+            "height": "198"
+        },
+        {
+            "name": "Sonny Hertzberg",
+            "height": "178"
+        },
+        {
+            "name": "Kevin Hervey",
+            "height": "206"
+        },
+        {
+            "name": "Dan Hester",
+            "height": "203"
+        },
+        {
+            "name": "Fred Hetzel",
+            "height": "203"
+        },
+        {
+            "name": "Bill Hewitt",
+            "height": "201"
+        },
+        {
+            "name": "Jack Hewson",
+            "height": "198"
+        },
+        {
+            "name": "Art Heyman",
+            "height": "196"
+        },
+        {
+            "name": "Mario Hezonja",
+            "height": "203"
+        },
+        {
+            "name": "Roy Hibbert",
+            "height": "218"
+        },
+        {
+            "name": "Nat Hickey",
+            "height": "180"
+        },
+        {
+            "name": "Isaiah Hicks",
+            "height": "206"
+        },
+        {
+            "name": "Phil Hicks",
+            "height": "201"
+        },
+        {
+            "name": "J.J. Hickson",
+            "height": "206"
+        },
+        {
+            "name": "Buddy Hield",
+            "height": "193"
+        },
+        {
+            "height": "NaN"
+        },
+        {
+            "name": "Bill Higgins",
+            "height": "188"
+        },
+        {
+            "name": "Cory Higgins",
+            "height": "196"
+        },
+        {
+            "name": "Earle Higgins",
+            "height": "203"
+        },
+        {
+            "name": "Mike Higgins",
+            "height": "206"
+        },
+        {
+            "name": "Rod Higgins",
+            "height": "201"
+        },
+        {
+            "name": "Sean Higgins",
+            "height": "206"
+        },
+        {
+            "name": "Kenny Higgs",
+            "height": "183"
+        },
+        {
+            "name": "Johnny High",
+            "height": "191"
+        },
+        {
+            "name": "Haywood Highsmith",
+            "height": "201"
+        },
+        {
+            "name": "Wayne Hightower",
+            "height": "203"
+        },
+        {
+            "name": "Nenê",
+            "height": "211"
+        },
+        {
+            "name": "Armond Hill",
+            "height": "193"
+        },
+        {
+            "name": "Cleo Hill",
+            "height": "185"
+        },
+        {
+            "name": "Gary Hill",
+            "height": "193"
+        },
+        {
+            "name": "George Hill",
+            "height": "193"
+        },
+        {
+            "name": "Grant Hill",
+            "height": "203"
+        },
+        {
+            "name": "Jordan Hill",
+            "height": "208"
+        },
+        {
+            "name": "Malcolm Hill",
+            "height": "198"
+        },
+        {
+            "name": "Simmie Hill",
+            "height": "201"
+        },
+        {
+            "name": "Solomon Hill",
+            "height": "198"
+        },
+        {
+            "height": "NaN"
+        },
+        {
+            "name": "Steven Hill",
+            "height": "213"
+        },
+        {
+            "name": "Tyrone Hill",
+            "height": "206"
+        },
+        {
+            "name": "Art Hillhouse",
+            "height": "201"
+        },
+        {
+            "name": "Darrun Hilliard",
+            "height": "198"
+        },
+        {
+            "name": "Darnell Hillman",
+            "height": "206"
+        },
+        {
+            "name": "Fred Hilton",
+            "height": "191"
+        },
+        {
+            "name": "Kirk Hinrich",
+            "height": "193"
+        },
+        {
+            "name": "Roy Hinson",
+            "height": "206"
+        },
+        {
+            "name": "Nate Hinton",
+            "height": "196"
+        },
+        {
+            "name": "Mel Hirsch",
+            "height": "168"
+        },
+        {
+            "name": "Lew Hitch",
+            "height": "203"
+        },
+        {
+            "name": "Robert Hite",
+            "height": "188"
+        },
+        {
+            "name": "Jaylen Hoard",
+            "height": "203"
+        },
+        {
+            "name": "Darington Hobson",
+            "height": "201"
+        },
+        {
+            "name": "D'Moi Hodge",
+            "height": "193"
+        },
+        {
+            "name": "Donald Hodge",
+            "height": "213"
+        },
+        {
+            "name": "Julius Hodge",
+            "height": "201"
+        },
+        {
+            "name": "Craig Hodges",
+            "height": "188"
+        },
+        {
+            "name": "Charlie Hoefer",
+            "height": "175"
+        },
+        {
+            "name": "Paul Hoffman",
+            "height": "188"
+        },
+        {
+            "height": "NaN"
+        },
+        {
+            "name": "Bob Hogsett",
+            "height": "201"
+        },
+        {
+            "name": "Paul Hogue",
+            "height": "206"
+        },
+        {
+            "name": "Fred Hoiberg",
+            "height": "193"
+        },
+        {
+            "name": "Doug Holcomb",
+            "height": "193"
+        },
+        {
+            "name": "Randy Holcomb",
+            "height": "206"
+        },
+        {
+            "name": "Aaron Holiday",
+            "height": "183"
+        },
+        {
+            "name": "Jrue Holiday",
+            "height": "193"
+        },
+        {
+            "name": "Justin Holiday",
+            "height": "198"
+        },
+        {
+            "name": "Brad Holland",
+            "height": "191"
+        },
+        {
+            "name": "Joe Holland",
+            "height": "193"
+        },
+        {
+            "name": "John Holland",
+            "height": "196"
+        },
+        {
+            "name": "Wilbur Holland",
+            "height": "183"
+        },
+        {
+            "name": "Lionel Hollins",
+            "height": "191"
+        },
+        {
+            "name": "Ryan Hollins",
+            "height": "213"
+        },
+        {
+            "name": "Essie Hollis",
+            "height": "198"
+        },
+        {
+            "name": "Rondae Hollis-Jefferson",
+            "height": "198"
+        },
+        {
+            "name": "Dennis Holman",
+            "height": "191"
+        },
+        {
+            "name": "Richaun Holmes",
+            "height": "208"
+        },
+        {
+            "name": "Chet Holmgren",
+            "height": "216"
+        },
+        {
+            "name": "Jim Holstein",
+            "height": "191"
+        },
+        {
+            "height": "NaN"
+        },
+        {
+            "name": "A.W. Holt",
+            "height": "201"
+        },
+        {
+            "name": "Michael Holton",
+            "height": "193"
+        },
+        {
+            "name": "Dick Holub",
+            "height": "198"
+        },
+        {
+            "name": "Joe Holup",
+            "height": "198"
+        },
+        {
+            "name": "Red Holzman",
+            "height": "178"
+        },
+        {
+            "name": "Jerald Honeycutt",
+            "height": "206"
+        },
+        {
+            "name": "Tyler Honeycutt",
+            "height": "203"
+        },
+        {
+            "name": "Derek Hood",
+            "height": "203"
+        },
+        {
+            "name": "Rodney Hood",
+            "height": "203"
+        },
+        {
+            "name": "Jalen Hood-Schifino",
+            "height": "198"
+        },
+        {
+            "name": "Bobby Hooper",
+            "height": "183"
+        },
+        {
+            "name": "Carroll Hooser",
+            "height": "201"
+        },
+        {
+            "name": "Tom Hoover",
+            "height": "206"
+        },
+        {
+            "name": "Bob Hopkins",
+            "height": "203"
+        },
+        {
+            "name": "Dave Hoppen",
+            "height": "211"
+        },
+        {
+            "name": "Dennis Hopson",
+            "height": "196"
+        },
+        {
+            "name": "Scotty Hopson",
+            "height": "201"
+        },
+        {
+            "name": "Johnny Horan",
+            "height": "203"
+        },
+        {
+            "name": "Cedrick Hordges",
+            "height": "203"
+        },
+        {
+            "name": "Al Horford",
+            "height": "206"
+        },
+        {
+            "height": "NaN"
+        },
+        {
+            "name": "Tito Horford",
+            "height": "216"
+        },
+        {
+            "name": "Ron Horn",
+            "height": "201"
+        },
+        {
+            "name": "Jeff Hornacek",
+            "height": "193"
+        },
+        {
+            "name": "Dennis Horner",
+            "height": "206"
+        },
+        {
+            "name": "Robert Horry",
+            "height": "208"
+        },
+        {
+            "name": "Ed Horton",
+            "height": "203"
+        },
+        {
+            "name": "Talen Horton-Tucker",
+            "height": "193"
+        },
+        {
+            "name": "Bill Hosket",
+            "height": "203"
+        },
+        {
+            "name": "Bob Houbregs",
+            "height": "203"
+        },
+        {
+            "name": "Danuel House Jr.",
+            "height": "198"
+        },
+        {
+            "name": "Eddie House",
+            "height": "185"
+        },
+        {
+            "name": "Caleb Houstan",
+            "height": "203"
+        },
+        {
+            "name": "Allan Houston",
+            "height": "198"
+        },
+        {
+            "name": "Byron Houston",
+            "height": "196"
+        },
+        {
+            "name": "Tom Hovasse",
+            "height": "203"
+        },
+        {
+            "name": "Brian Howard",
+            "height": "198"
+        },
+        {
+            "name": "Dwight Howard",
+            "height": "208"
+        },
+        {
+            "name": "Greg Howard",
+            "height": "206"
+        },
+        {
+            "name": "Jett Howard",
+            "height": "203"
+        },
+        {
+            "name": "Josh Howard",
+            "height": "201"
+        },
+        {
+            "height": "NaN"
+        },
+        {
+            "name": "Juwan Howard",
+            "height": "206"
+        },
+        {
+            "name": "Markus Howard",
+            "height": "178"
+        },
+        {
+            "name": "Mo Howard",
+            "height": "188"
+        },
+        {
+            "name": "Otis Howard",
+            "height": "201"
+        },
+        {
+            "name": "Stephen Howard",
+            "height": "206"
+        },
+        {
+            "name": "William Howard",
+            "height": "203"
+        },
+        {
+            "name": "Bailey Howell",
+            "height": "201"
+        },
+        {
+            "name": "Bob Hubbard",
+            "height": "198"
+        },
+        {
+            "name": "Phil Hubbard",
+            "height": "203"
+        },
+        {
+            "name": "Trevor Hudgins",
+            "height": "183"
+        },
+        {
+            "name": "Lester Hudson",
+            "height": "191"
+        },
+        {
+            "name": "Lou Hudson",
+            "height": "196"
+        },
+        {
+            "name": "Troy Hudson",
+            "height": "185"
+        },
+        {
+            "name": "Marcelo Huertas",
+            "height": "191"
+        },
+        {
+            "name": "Kevin Huerter",
+            "height": "201"
+        },
+        {
+            "name": "Josh Huestis",
+            "height": "201"
+        },
+        {
+            "name": "Jay Huff",
+            "height": "216"
+        },
+        {
+            "name": "Nate Huffman",
+            "height": "216"
+        },
+        {
+            "name": "Alfredrick Hughes",
+            "height": "196"
+        },
+        {
+            "name": "Eddie Hughes",
+            "height": "178"
+        },
+        {
+            "height": "NaN"
+        },
+        {
+            "name": "Elijah Hughes",
+            "height": "196"
+        },
+        {
+            "name": "Kim Hughes",
+            "height": "211"
+        },
+        {
+            "name": "Larry Hughes",
+            "height": "196"
+        },
+        {
+            "name": "Rick Hughes",
+            "height": "206"
+        },
+        {
+            "name": "Robbie Hummel",
+            "height": "203"
+        },
+        {
+            "name": "John Hummer",
+            "height": "206"
+        },
+        {
+            "name": "Ryan Humphrey",
+            "height": "203"
+        },
+        {
+            "name": "Isaac Humphries",
+            "height": "213"
+        },
+        {
+            "name": "Jay Humphries",
+            "height": "191"
+        },
+        {
+            "name": "Kris Humphries",
+            "height": "206"
+        },
+        {
+            "name": "Hot Rod Hundley",
+            "height": "193"
+        },
+        {
+            "name": "Feron Hunt",
+            "height": "203"
+        },
+        {
+            "name": "Brandon Hunter",
+            "height": "201"
+        },
+        {
+            "name": "Cedric Hunter",
+            "height": "183"
+        },
+        {
+            "name": "Chris Hunter",
+            "height": "211"
+        },
+        {
+            "name": "De'Andre Hunter",
+            "height": "203"
+        },
+        {
+            "name": "Les Hunter",
+            "height": "201"
+        },
+        {
+            "name": "Lindsey Hunter",
+            "height": "188"
+        },
+        {
+            "name": "Othello Hunter",
+            "height": "203"
+        },
+        {
+            "name": "R.J. Hunter",
+            "height": "196"
+        },
+        {
+            "height": "NaN"
+        },
+        {
+            "name": "Steven Hunter",
+            "height": "213"
+        },
+        {
+            "name": "Vince Hunter",
+            "height": "203"
+        },
+        {
+            "name": "Bobby Hurley",
+            "height": "183"
+        },
+        {
+            "name": "Roy Hurley",
+            "height": "188"
+        },
+        {
+            "name": "Geoff Huston",
+            "height": "188"
+        },
+        {
+            "name": "Paul Huston",
+            "height": "191"
+        },
+        {
+            "name": "Mel Hutchins",
+            "height": "198"
+        },
+        {
+            "name": "Chandler Hutchison",
+            "height": "198"
+        },
+        {
+            "name": "Joe Hutton",
+            "height": "185"
+        },
+        {
+            "name": "Greg Hyder",
+            "height": "198"
+        },
+        {
+            "name": "Bones Hyland",
+            "height": "188"
+        }
+    ],
+    "i": [
+        {
+            "name": "Marc Iavaroni",
+            "height": "203"
+        },
+        {
+            "name": "Serge Ibaka",
+            "height": "211"
+        },
+        {
+            "name": "Andre Iguodala",
+            "height": "198"
+        },
+        {
+            "name": "Zydrunas Ilgauskas",
+            "height": "221"
+        },
+        {
+            "name": "Mile Ilić",
+            "height": "216"
+        },
+        {
+            "name": "D.J. Mbenga",
+            "height": "213"
+        },
+        {
+            "name": "Ersan İlyasova",
+            "height": "206"
+        },
+        {
+            "name": "Darrall Imhoff",
+            "height": "208"
+        },
+        {
+            "name": "Tom Ingelsby",
+            "height": "191"
+        },
+        {
+            "name": "Joe Ingles",
+            "height": "206"
+        },
+        {
+            "name": "Damien Inglis",
+            "height": "203"
+        },
+        {
+            "name": "Andre Ingram",
+            "height": "191"
+        },
+        {
+            "name": "Brandon Ingram",
+            "height": "203"
+        },
+        {
+            "name": "McCoy Ingram",
+            "height": "203"
+        },
+        {
+            "name": "Ervin Inniger",
+            "height": "193"
+        },
+        {
+            "name": "Byron Irvin",
+            "height": "196"
+        },
+        {
+            "name": "George Irvine",
+            "height": "198"
+        },
+        {
+            "name": "Kyrie Irving",
+            "height": "188"
+        },
+        {
+            "name": "Jonathan Isaac",
+            "height": "208"
+        },
+        {
+            "name": "Dan Issel",
+            "height": "206"
+        },
+        {
+            "name": "Mike Iuzzolino",
+            "height": "178"
+        },
+        {
+            "name": "Allen Iverson",
+            "height": "183"
+        },
+        {
+            "name": "Willie Iverson",
+            "height": "183"
+        },
+        {
+            "name": "Jaden Ivey",
+            "height": "193"
+        },
+        {
+            "name": "Royal Ivey",
+            "height": "191"
+        },
+        {
+            "name": "Elvin Ivory",
+            "height": "203"
+        },
+        {
+            "name": "Wes Iwundu",
+            "height": "198"
+        }
+    ],
+    "j": [
+        {
+            "name": "Warren Jabali",
+            "height": "188"
+        },
+        {
+            "name": "Jarrett Jack",
+            "height": "191"
+        },
+        {
+            "name": "Aaron Jackson",
+            "height": "193"
+        },
+        {
+            "name": "Al Jackson",
+            "height": "185"
+        },
+        {
+            "name": "Andre Jackson Jr.",
+            "height": "198"
+        },
+        {
+            "name": "Bobby Jackson",
+            "height": "185"
+        },
+        {
+            "name": "Cedric Jackson",
+            "height": "191"
+        },
+        {
+            "name": "Darnell Jackson",
+            "height": "206"
+        },
+        {
+            "name": "Demetrius Jackson",
+            "height": "185"
+        },
+        {
+            "name": "Frank Jackson",
+            "height": "191"
+        },
+        {
+            "name": "Greg Jackson",
+            "height": "183"
+        },
+        {
+            "name": "Gregory Jackson II",
+            "height": "206"
+        },
+        {
+            "name": "Isaiah Jackson",
+            "height": "208"
+        },
+        {
+            "name": "Jaren Jackson",
+            "height": "193"
+        },
+        {
+            "name": "Jaren Jackson Jr.",
+            "height": "208"
+        },
+        {
+            "name": "Jermaine Jackson",
+            "height": "193"
+        },
+        {
+            "name": "Jim Jackson",
+            "height": "198"
+        },
+        {
+            "name": "Josh Jackson",
+            "height": "203"
+        },
+        {
+            "name": "Justin Jackson",
+            "height": "203"
+        },
+        {
+            "name": "Luke Jackson",
+            "height": "206"
+        },
+        {
+            "name": "Luke Jackson",
+            "height": "201"
+        },
+        {
+            "name": "Marc Jackson",
+            "height": "208"
+        },
+        {
+            "name": "Mark Jackson",
+            "height": "185"
+        },
+        {
+            "name": "Merv Jackson",
+            "height": "191"
+        },
+        {
+            "name": "Michael Jackson",
+            "height": "188"
+        },
+        {
+            "name": "Mike Jackson",
+            "height": "201"
+        },
+        {
+            "name": "Myron Jackson",
+            "height": "191"
+        },
+        {
+            "name": "Phil Jackson",
+            "height": "203"
+        },
+        {
+            "name": "Pierre Jackson",
+            "height": "178"
+        },
+        {
+            "name": "Quenton Jackson",
+            "height": "196"
+        },
+        {
+            "name": "Ralph Jackson",
+            "height": "188"
+        },
+        {
+            "name": "Randell Jackson",
+            "height": "211"
+        },
+        {
+            "name": "Reggie Jackson",
+            "height": "188"
+        },
+        {
+            "name": "Stanley Jackson",
+            "height": "191"
+        },
+        {
+            "name": "Stephen Jackson",
+            "height": "203"
+        },
+        {
+            "name": "Tony Jackson",
+            "height": "193"
+        },
+        {
+            "name": "Tony Jackson",
+            "height": "183"
+        },
+        {
+            "name": "Tracy Jackson",
+            "height": "198"
+        },
+        {
+            "name": "Wardell Jackson",
+            "height": "201"
+        },
+        {
+            "name": "Trayce Jackson-Davis",
+            "height": "206"
+        },
+        {
+            "name": "Fred Jacobs",
+            "height": "191"
+        },
+        {
+            "name": "Casey Jacobsen",
+            "height": "198"
+        },
+        {
+            "name": "Sam Jacobson",
+            "height": "193"
+        },
+        {
+            "name": "Dave Jamerson",
+            "height": "196"
+        },
+        {
+            "name": "Aaron James",
+            "height": "203"
+        },
+        {
+            "name": "Bernard James",
+            "height": "208"
+        },
+        {
+            "name": "Billy James",
+            "height": "191"
+        },
+        {
+            "name": "Damion James",
+            "height": "201"
+        },
+        {
+            "name": "Gene James",
+            "height": "193"
+        },
+        {
+            "name": "Henry James",
+            "height": "203"
+        },
+        {
+            "name": "Jerome James",
+            "height": "213"
+        },
+        {
+            "name": "Justin James",
+            "height": "201"
+        },
+        {
+            "name": "LeBron James",
+            "height": "206"
+        },
+        {
+            "name": "Mike James",
+            "height": "188"
+        },
+        {
+            "name": "Mike James",
+            "height": "185"
+        },
+        {
+            "name": "Tim James",
+            "height": "201"
+        },
+        {
+            "name": "Antawn Jamison",
+            "height": "206"
+        },
+        {
+            "name": "Harold Jamison",
+            "height": "203"
+        },
+        {
+            "name": "John Janisch",
+            "height": "191"
+        },
+        {
+            "name": "Howie Janotta",
+            "height": "191"
+        },
+        {
+            "name": "Jaime Jaquez Jr.",
+            "height": "198"
+        },
+        {
+            "name": "Marko Jarić",
+            "height": "201"
+        },
+        {
+            "name": "Tony Jaros",
+            "height": "191"
+        },
+        {
+            "name": "DeJon Jarreau",
+            "height": "196"
+        },
+        {
+            "name": "Jim Jarvis",
+            "height": "185"
+        },
+        {
+            "name": "Šarūnas Jasikevičius",
+            "height": "193"
+        },
+        {
+            "name": "Nathan Jawai",
+            "height": "208"
+        },
+        {
+            "name": "Buddy Jeannette",
+            "height": "180"
+        },
+        {
+            "name": "Abdul Jeelani",
+            "height": "203"
+        },
+        {
+            "name": "Chris Jefferies",
+            "height": "203"
+        },
+        {
+            "name": "Othyus Jeffers",
+            "height": "196"
+        },
+        {
+            "name": "Al Jefferson",
+            "height": "208"
+        },
+        {
+            "name": "Amile Jefferson",
+            "height": "206"
+        },
+        {
+            "name": "Cory Jefferson",
+            "height": "206"
+        },
+        {
+            "name": "Dontell Jefferson",
+            "height": "196"
+        },
+        {
+            "name": "Richard Jefferson",
+            "height": "201"
+        },
+        {
+            "name": "DaQuan Jeffries",
+            "height": "196"
+        },
+        {
+            "name": "Jared Jeffries",
+            "height": "211"
+        },
+        {
+            "name": "Charles Jenkins",
+            "height": "191"
+        },
+        {
+            "name": "Horace Jenkins",
+            "height": "185"
+        },
+        {
+            "name": "John Jenkins",
+            "height": "193"
+        },
+        {
+            "name": "Brandon Jennings",
+            "height": "185"
+        },
+        {
+            "name": "Keith Jennings",
+            "height": "170"
+        },
+        {
+            "name": "Chris Jent",
+            "height": "201"
+        },
+        {
+            "name": "Les Jepsen",
+            "height": "213"
+        },
+        {
+            "name": "Jonas Jerebko",
+            "height": "208"
+        },
+        {
+            "name": "Ty Jerome",
+            "height": "196"
+        },
+        {
+            "name": "Grant Jerrett",
+            "height": "208"
+        },
+        {
+            "name": "Eugene Jeter",
+            "height": "180"
+        },
+        {
+            "name": "Hal Jeter",
+            "height": "191"
+        },
+        {
+            "name": "Yi Jianlian",
+            "height": "213"
+        },
+        {
+            "name": "Isaiah Joe",
+            "height": "193"
+        },
+        {
+            "name": "Britton Johnsen",
+            "height": "208"
+        },
+        {
+            "name": "Alexander Johnson",
+            "height": "206"
+        },
+        {
+            "name": "Alize Johnson",
+            "height": "201"
+        },
+        {
+            "name": "Amir Johnson",
+            "height": "206"
+        },
+        {
+            "name": "Andy Johnson",
+            "height": "196"
+        },
+        {
+            "name": "Anthony Johnson",
+            "height": "191"
+        },
+        {
+            "name": "Armon Johnson",
+            "height": "191"
+        },
+        {
+            "name": "Arnie Johnson",
+            "height": "196"
+        },
+        {
+            "name": "Avery Johnson",
+            "height": "178"
+        },
+        {
+            "name": "B.J. Johnson",
+            "height": "201"
+        },
+        {
+            "name": "Brice Johnson",
+            "height": "208"
+        },
+        {
+            "name": "Buck Johnson",
+            "height": "201"
+        },
+        {
+            "name": "Cameron Johnson",
+            "height": "203"
+        },
+        {
+            "name": "Carldell Johnson",
+            "height": "178"
+        },
+        {
+            "name": "Charles Johnson",
+            "height": "183"
+        },
+        {
+            "name": "Cheese Johnson",
+            "height": "198"
+        },
+        {
+            "name": "Chris Johnson",
+            "height": "211"
+        },
+        {
+            "name": "Chris Johnson",
+            "height": "198"
+        },
+        {
+            "name": "Clay Johnson",
+            "height": "193"
+        },
+        {
+            "name": "Clemon Johnson",
+            "height": "208"
+        },
+        {
+            "name": "Dakari Johnson",
+            "height": "213"
+        },
+        {
+            "name": "Darryl Johnson",
+            "height": "185"
+        },
+        {
+            "name": "Dave Johnson",
+            "height": "201"
+        },
+        {
+            "name": "David Johnson",
+            "height": "196"
+        },
+        {
+            "name": "DeMarco Johnson",
+            "height": "206"
+        },
+        {
+            "name": "Dennis Johnson",
+            "height": "193"
+        },
+        {
+            "name": "DerMarr Johnson",
+            "height": "206"
+        },
+        {
+            "name": "Ed Johnson",
+            "height": "203"
+        },
+        {
+            "name": "Eddie Johnson",
+            "height": "188"
+        },
+        {
+            "name": "Eddie Johnson",
+            "height": "201"
+        },
+        {
+            "name": "Eric Johnson",
+            "height": "188"
+        },
+        {
+            "name": "Ervin Johnson",
+            "height": "211"
+        },
+        {
+            "name": "Frank Johnson",
+            "height": "185"
+        },
+        {
+            "name": "George Johnson",
+            "height": "211"
+        },
+        {
+            "name": "George Johnson",
+            "height": "211"
+        },
+        {
+            "name": "George Johnson",
+            "height": "201"
+        },
+        {
+            "name": "Gus Johnson",
+            "height": "198"
+        },
+        {
+            "name": "Harold Johnson",
+            "height": "198"
+        },
+        {
+            "name": "Ivan Johnson",
+            "height": "203"
+        },
+        {
+            "name": "JaJuan Johnson",
+            "height": "208"
+        },
+        {
+            "name": "Jalen Johnson",
+            "height": "206"
+        },
+        {
+            "name": "James Johnson",
+            "height": "201"
+        },
+        {
+            "name": "Joe Johnson",
+            "height": "201"
+        },
+        {
+            "name": "John Johnson",
+            "height": "201"
+        },
+        {
+            "name": "Kannard Johnson",
+            "height": "206"
+        },
+        {
+            "name": "Keldon Johnson",
+            "height": "196"
+        },
+        {
+            "name": "Ken Johnson",
+            "height": "203"
+        },
+        {
+            "name": "Ken Johnson",
+            "height": "211"
+        },
+        {
+            "name": "Keon Johnson",
+            "height": "196"
+        },
+        {
+            "name": "Kevin Johnson",
+            "height": "185"
+        },
+        {
+            "name": "Keyontae Johnson",
+            "height": "196"
+        },
+        {
+            "name": "Larry Johnson",
+            "height": "191"
+        },
+        {
+            "name": "Larry Johnson",
+            "height": "201"
+        },
+        {
+            "name": "Lee Johnson",
+            "height": "211"
+        },
+        {
+            "name": "Linton Johnson",
+            "height": "203"
+        },
+        {
+            "name": "Magic Johnson",
+            "height": "206"
+        },
+        {
+            "name": "Marques Johnson",
+            "height": "201"
+        },
+        {
+            "name": "Mickey Johnson",
+            "height": "208"
+        },
+        {
+            "name": "Neil Johnson",
+            "height": "201"
+        },
+        {
+            "name": "Nick Johnson",
+            "height": "191"
+        },
+        {
+            "name": "Ollie Johnson",
+            "height": "198"
+        },
+        {
+            "name": "Omari Johnson",
+            "height": "206"
+        },
+        {
+            "name": "Orlando Johnson",
+            "height": "196"
+        },
+        {
+            "name": "Ralph Johnson",
+            "height": "180"
+        },
+        {
+            "name": "Reggie Johnson",
+            "height": "206"
+        },
+        {
+            "name": "Rich Johnson",
+            "height": "201"
+        },
+        {
+            "name": "Ron Johnson",
+            "height": "203"
+        },
+        {
+            "name": "Stanley Johnson",
+            "height": "198"
+        },
+        {
+            "name": "Steffond Johnson",
+            "height": "203"
+        },
+        {
+            "name": "Steve Johnson",
+            "height": "208"
+        },
+        {
+            "name": "Stew Johnson",
+            "height": "203"
+        },
+        {
+            "name": "Trey Johnson",
+            "height": "196"
+        },
+        {
+            "name": "Tyler Johnson",
+            "height": "191"
+        },
+        {
+            "name": "Vinnie Johnson",
+            "height": "188"
+        },
+        {
+            "name": "Wesley Johnson",
+            "height": "201"
+        },
+        {
+            "name": "Darius Johnson-Odom",
+            "height": "188"
+        },
+        {
+            "name": "Nate Johnston",
+            "height": "203"
+        },
+        {
+            "name": "Neil Johnston",
+            "height": "203"
+        },
+        {
+            "name": "Jim Johnstone",
+            "height": "211"
+        },
+        {
+            "name": "Nikola Jokić",
+            "height": "211"
+        },
+        {
+            "name": "Howie Jolliff",
+            "height": "201"
+        },
+        {
+            "name": "Alvin Jones",
+            "height": "211"
+        },
+        {
+            "name": "Anthony Jones",
+            "height": "198"
+        },
+        {
+            "name": "Askia Jones",
+            "height": "196"
+        },
+        {
+            "name": "Bill Jones",
+            "height": "201"
+        },
+        {
+            "name": "Bobby Jones",
+            "height": "206"
+        },
+        {
+            "name": "Bobby Jones",
+            "height": "201"
+        },
+        {
+            "name": "Caldwell Jones",
+            "height": "211"
+        },
+        {
+            "name": "Carlik Jones",
+            "height": "185"
+        },
+        {
+            "name": "Charles Jones",
+            "height": "206"
+        },
+        {
+            "name": "Charles Jones",
+            "height": "203"
+        },
+        {
+            "name": "Charles Jones",
+            "height": "191"
+        },
+        {
+            "name": "Colby Jones",
+            "height": "198"
+        },
+        {
+            "name": "Collis Jones",
+            "height": "201"
+        },
+        {
+            "name": "Dahntay Jones",
+            "height": "198"
+        },
+        {
+            "name": "Damian Jones",
+            "height": "211"
+        },
+        {
+            "name": "Damon Jones",
+            "height": "191"
+        },
+        {
+            "name": "DeQuan Jones",
+            "height": "203"
+        },
+        {
+            "name": "Derrick Jones Jr.",
+            "height": "196"
+        },
+        {
+            "name": "Dominique Jones",
+            "height": "193"
+        },
+        {
+            "name": "Dontae' Jones",
+            "height": "203"
+        },
+        {
+            "name": "Dwayne Jones",
+            "height": "211"
+        },
+        {
+            "name": "Dwight Jones",
+            "height": "208"
+        },
+        {
+            "name": "Earl Jones",
+            "height": "213"
+        },
+        {
+            "name": "Eddie Jones",
+            "height": "198"
+        },
+        {
+            "name": "Edgar Jones",
+            "height": "208"
+        },
+        {
+            "name": "Fred Jones",
+            "height": "193"
+        },
+        {
+            "name": "Herbert Jones",
+            "height": "203"
+        },
+        {
+            "name": "Hutch Jones",
+            "height": "203"
+        },
+        {
+            "name": "Jake Jones",
+            "height": "191"
+        },
+        {
+            "name": "Jalen Jones",
+            "height": "201"
+        },
+        {
+            "name": "James Jones",
+            "height": "203"
+        },
+        {
+            "name": "Jemerrio Jones",
+            "height": "196"
+        },
+        {
+            "name": "Jimmy Jones",
+            "height": "193"
+        },
+        {
+            "name": "Johnny Jones",
+            "height": "201"
+        },
+        {
+            "name": "Jumaine Jones",
+            "height": "203"
+        },
+        {
+            "name": "K.C. Jones",
+            "height": "185"
+        },
+        {
+            "name": "Kai Jones",
+            "height": "211"
+        },
+        {
+            "name": "Kevin Jones",
+            "height": "203"
+        },
+        {
+            "name": "Larry Jones",
+            "height": "188"
+        },
+        {
+            "name": "Major Jones",
+            "height": "206"
+        },
+        {
+            "name": "Mark Jones",
+            "height": "185"
+        },
+        {
+            "name": "Mark Jones",
+            "height": "198"
+        },
+        {
+            "name": "Mason Jones",
+            "height": "193"
+        },
+        {
+            "name": "Nick Jones",
+            "height": "188"
+        },
+        {
+            "name": "Ozell Jones",
+            "height": "211"
+        },
+        {
+            "name": "Perry Jones",
+            "height": "211"
+        },
+        {
+            "name": "Popeye Jones",
+            "height": "203"
+        },
+        {
+            "name": "Rich Jones",
+            "height": "198"
+        },
+        {
+            "name": "Robin Jones",
+            "height": "206"
+        },
+        {
+            "name": "Sam Jones",
+            "height": "193"
+        },
+        {
+            "name": "Shelton Jones",
+            "height": "206"
+        },
+        {
+            "name": "Solomon Jones",
+            "height": "208"
+        },
+        {
+            "name": "Steve Jones",
+            "height": "196"
+        },
+        {
+            "name": "Terrence Jones",
+            "height": "206"
+        },
+        {
+            "name": "Tre Jones",
+            "height": "185"
+        },
+        {
+            "name": "Tyus Jones",
+            "height": "185"
+        },
+        {
+            "name": "Wah Wah Jones",
+            "height": "193"
+        },
+        {
+            "name": "Wali Jones",
+            "height": "188"
+        },
+        {
+            "name": "Wil Jones",
+            "height": "203"
+        },
+        {
+            "name": "Willie Jones",
+            "height": "191"
+        },
+        {
+            "name": "Adonis Jordan",
+            "height": "180"
+        },
+        {
+            "name": "Charles Jordan",
+            "height": "203"
+        },
+        {
+            "name": "DeAndre Jordan",
+            "height": "211"
+        },
+        {
+            "name": "Eddie Jordan",
+            "height": "185"
+        },
+        {
+            "name": "Jerome Jordan",
+            "height": "213"
+        },
+        {
+            "name": "Michael Jordan",
+            "height": "198"
+        },
+        {
+            "name": "Reggie Jordan",
+            "height": "193"
+        },
+        {
+            "name": "Thomas Jordan",
+            "height": "208"
+        },
+        {
+            "name": "Walter Jordan",
+            "height": "201"
+        },
+        {
+            "name": "Phil Jordon",
+            "height": "208"
+        },
+        {
+            "name": "Johnny Jorgensen",
+            "height": "188"
+        },
+        {
+            "name": "Noble Jorgensen",
+            "height": "206"
+        },
+        {
+            "name": "Roger Jorgensen",
+            "height": "196"
+        },
+        {
+            "name": "Cory Joseph",
+            "height": "188"
+        },
+        {
+            "name": "Garth Joseph",
+            "height": "218"
+        },
+        {
+            "name": "Kris Joseph",
+            "height": "201"
+        },
+        {
+            "name": "Yvon Joseph",
+            "height": "211"
+        },
+        {
+            "name": "Nikola Jović",
+            "height": "208"
+        },
+        {
+            "name": "Kevin Joyce",
+            "height": "191"
+        },
+        {
+            "name": "Butch Joyner",
+            "height": "196"
+        },
+        {
+            "name": "Jeff Judkins",
+            "height": "198"
+        },
+        {
+            "name": "Johnny Juzang",
+            "height": "201"
+        }
+    ]
+}
